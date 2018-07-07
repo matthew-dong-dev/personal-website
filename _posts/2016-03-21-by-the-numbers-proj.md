@@ -1,15 +1,9 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "By The Numbers"
 date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "Data analysis on biometic data collected on my life"
 project: true
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
 comments: true
 ---
 

@@ -23,6 +23,16 @@ To modify styling and highlight colors edit `/assets/css/syntax.css`.
 }
 {% endhighlight %}
 
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+
 {% highlight html %}
 {% raw %}
 <nav class="pagination" role="navigation">

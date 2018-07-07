@@ -2,23 +2,27 @@
 
 ## To do (Tier 1): 
 
+	DON'T FORGET TO CHANGE URL before pushing
+	- https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development
+	- https://jekyllrb.com/docs/variables/
+
 1. insert a basic _by the numbers post_ w/ images, etc... 
-1. link moon template to your github pages page & delete old repo
 1. customize about page, home image, background, etc...
 1. link to google domain: https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c 
-1. 
+
 
 ### To do (Tier 2): 
 
-1. drop a donation
-1. have post home button redirect to actual home
-1. Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example.
+1. drop a donation & delete old moon repo + archieve dataworks repo
+1. HOW TO USE TRACKING CODE? Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example.
 1. Configuring Travis CI on your repo is a great way to track failing builds as well - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
 1. regex for all png and jpg files?  `\.(png|jpg)`
 
 
 ## Completed: 
 
+1. [x] have post home button redirect to actual home
+1. [x] link moon template to your github pages page 
 1. [x] change theme
 
 useful commands:
