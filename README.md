@@ -6,8 +6,10 @@
 	- https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development
 	- https://jekyllrb.com/docs/variables/
 
-1. insert a basic _by the numbers post_ w/ images, etc... 
+
 1. customize about page, home image, background, etc...
+1. 
+1. fix permalink in by-the-numbers-1? 
 1. link to google domain: https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c 
 
 
@@ -20,7 +22,7 @@
 
 
 ## Completed: 
-
+1. [x] insert a basic _by the numbers post_ w/ images, etc... 
 1. [x] have post home button redirect to actual home
 1. [x] link moon template to your github pages page 
 1. [x] change theme

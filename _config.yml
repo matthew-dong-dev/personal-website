@@ -10,6 +10,7 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 # url:                http://localhost:4000
 url:                https://mdong127.github.io/
+timezone:           America/Los_Angeles
 
 # Jekyll
 permalink:          /:title/
