@@ -6,6 +6,8 @@ categories: jekyll update
 excerpt: "<p style='text-align: left;'> <i> \"You can't control what you can't measure.\"  </i> - Me (but not really) </p>"  
 permalink: by-the-numbers-1
 comments: true
+tag: [biometric, data-analysis]
+reading_time: true
 ---
 
 Hello, and welcome to __Semester 1 By The Numbers__!
