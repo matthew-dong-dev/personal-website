@@ -3,10 +3,11 @@ layout: post
 title:  "Why Education?"
 date:   2017-01-16
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
-tag: [education, reform]
+
 comments: true
-feature: images/bridge.jpg
+feature: images/featured_images/bridge.jpg
 reading_time: true
+tag: [personal-writing, education, reform]
 ---
 
 ### Here are 5 reasons why education reform matters and why it's is the path I'm pursuing: 

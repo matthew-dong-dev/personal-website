@@ -21,7 +21,7 @@ The simple act of measuring has helped me maintain accountability, but this is m
 Here's a basic look at the data: 
 
 <figure>
-	<a><img src="/images/f16_images/f16_data.png"></a>
+	<a><img src="/images/btn1_images/f16_data.png"></a>
 	<center> <figcaption> Spreadsheet </figcaption> </center>
 </figure>
 
@@ -34,7 +34,7 @@ Here's a basic look at the data:
 Efficiency is the percentage of day I managed to be productive.  
 
 <figure>
-	<a><img src="/images/f16_images/efficiency_outliers.jpeg"></a>
+	<a><img src="/images/btn1_images/efficiency_outliers.jpeg"></a>
 	<center> <figcaption> Efficiency Over Time. </figcaption> </center>
 </figure>
 
@@ -43,7 +43,7 @@ My efficiency seemed to hover around 87% which was the mean, but there were seve
 Upon substituting these outliers with the mean, I plotted the data again, and the graph below shows the overall trend.
 
 <figure>
-	<a><img src="/images/f16_images/overall_efficiency.jpeg"></a>
+	<a><img src="/images/btn1_images/overall_efficiency.jpeg"></a>
 	<center> <figcaption> Efficiency Over Time. </figcaption> </center>
 </figure>
 
@@ -55,7 +55,7 @@ So, my efficiency increased as the school year went on, peaked around midterms 
 Efficiency was a function of the remaining time I had in a day, so if I took an extra nap, it would still register as me being more efficient, even though I wasn't really productive.  Since `Remaining Time` = 18 hrs - `Total Sleep` - `Total Productive Time`, I decided to check if work or sleep contributed more to greater efficiency.  Here is a scatterplot of `Remaining Time` as a function `Total Productive Time` and `Total Sleep` where the 3rd dimension is color; the smaller and darker the points, the less remaining time there was.  
 
 <figure>
-	<a><img src="/images/f16_images/scatterplot.png"></a>
+	<a><img src="/images/btn1_images/scatterplot.png"></a>
 	<center> <figcaption> Efficiency vs Sleep vs Productivity. </figcaption> </center>
 </figure>
 
@@ -68,7 +68,7 @@ It appears that productive time contributes more to less remaining time than doe
 Time was broken down into several categories and below is a box plot of the 12 different categories I kept track of, providing basic statistics for each category over the semester.
 
 <figure>
-	<a><img src="/images/f16_images/faceted_boxplot.png"></a>
+	<a><img src="/images/btn1_images/faceted_boxplot.png"></a>
 	<center> <figcaption> Descriptive Stats </figcaption> </center>
 </figure>
 
@@ -82,7 +82,7 @@ Time was broken down into several categories and below is a box plot of the 12 d
 Here's a look into time spent in each category by day: 
 
 <figure>
-	<a><img src="/images/f16_images/linegraph.png"></a>
+	<a><img src="/images/btn1_images/linegraph.png"></a>
 	<center> <figcaption> By Day </figcaption> </center>
 </figure>
 
@@ -93,7 +93,7 @@ Here's a look into time spent in each category by day:
 Here is a heat map of correlation coefficients between each feature pair.
 
 <figure>
-	<a><img src="/images/f16_images/corr_matrix.jpeg"></a>
+	<a><img src="/images/btn1_images/corr_matrix.jpeg"></a>
 	<center> <figcaption> By Day </figcaption> </center>
 </figure>
 

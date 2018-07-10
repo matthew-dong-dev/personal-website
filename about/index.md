@@ -25,17 +25,18 @@ comments: false
 * Rose Hills Scholarship
 
 --- 
+<br>
 
-<center> <h1> Miscellaneous </h1> </center>
+<center> <h2> Miscellaneous </h2> </center>
 
-## People who've influenced me the most
+### People who've influenced me the most
 
 1. Susan Cain
 1. Cal Newport
 1. David Goggins
 1. David Attenborough
 
-## Reading List
+### Reading List
 
 see HA intro slide + fav website = quora, 
 
@@ -47,7 +48,7 @@ see HA intro slide + fav website = quora,
 | how to prove it (include link to notes)   | cell5   
 {: rules="groups"}
 
-## Shows
+### Shows
 
 | General 						| Essays & Plays |
 |--------					    |------- |

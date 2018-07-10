@@ -1,5 +1,21 @@
 ### https://mdong127.github.io/
 
+## What do you need to do to achieve a minimally viable website for PennApps?
+
+1. write a description regarding askoski for your website and a shortened version for your resume & for hackathon
+	- see the intro you wrote for the SURF program
+	- overview: combination of web dev & machine learning
+	- in progress is new search feature 
+		- did ML research to produce keywords from mapping word2vec vectors onto BOW space that are searchable
+	- see bash script & point to repo
+	- developed search feature in angular
+	- tools used: Angular, Python...
+1. transfer *By the Numbers 2*
+1. finish resume
+1. finish about me page & find where to set thumbnail image?
+1. customize background (picture or color) & logo (picture of yourself)
+1. add hyperlinks in *why education?*
+
 ## To do (Tier 1): 
 
 	DON'T FORGET TO CHANGE URL before pushing
@@ -9,8 +25,6 @@
 
 1. transfer other posts; how to add drafts
 	- Drafts are posts without a date in the filename. 
-1. customize about me page
-1. choose background (picture or color) & logo (picture of yourself)
 1. change email to redirect from a more generic one
 1. link to google domain: https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c 
 1. create a dev branch & make pull requests
