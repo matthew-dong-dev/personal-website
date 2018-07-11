@@ -2,15 +2,10 @@
 
 ## What do you need to do to achieve a minimally viable website for PennApps?
 
-1. Askoski description: for your website & hackathon and a shortened version for your resume 
-	- overview: combination of web dev & machine learning
-	- in progress is new search feature 
-		- did ML research to produce keywords from mapping word2vec vectors onto BOW space that are searchable
 1. transfer *By the Numbers 2*
-1. finish resume
-1. finish about me page & find where to set thumbnail image?
-1. customize background (picture or color) & logo (picture of yourself)
-1. add hyperlinks in *why education?*
+1. finish resume & add to site
+1. finish about me page 
+1. change favicon & remove dummy posts
 
 ## To do (Tier 1): 
 
@@ -21,14 +16,14 @@
 
 1. transfer other posts; how to add drafts
 	- Drafts are posts without a date in the filename. 
-	- remove template posts
+	- add hyperlinks in *why education?*
 1. change email to redirect from a more generic one
 1. link to google domain: https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c 
 1. create a dev branch & make pull requests
 
 ### To do (Tier 2): 
 
-1. drop a donation & delete old moon repo + archieve dataworks repo
+1. drop a donation
 
 1. HOW TO USE analytics CODE? Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example._
 	- https://taylantatli.github.io/Moon/moon-theme/
@@ -38,11 +33,12 @@
 1. regex for all png and jpg files?  `\.(png|jpg)`
 
 ## Completed: 
-1. [x] add markdownify into post list & projects layouts
+1. [x] customize background (picture or color) & logo (prof pic)
+1. [x] insert markdownify into liquid templating for post list & projects layouts
 1. [x] fix permalink issue with extra backslash 
-1. [x] insert a basic _by the numbers post_ w/ images, etc... 
-1. [x] redirect post home button redirect to actual home
-1. [x] change theme & link template to your github pages page 
+1. [x] insert a basic _by the numbers post_ w/ images, YAML header, etc... 
+1. [x] redirect post home button to proper `site.url`
+1. [x] choose & change theme & link template to your github pages page 
 
 Jekyll commands:
 

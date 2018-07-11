@@ -3,11 +3,12 @@ layout: page
 title: About Me
 date: 2016-03-21
 comments: false
+feature: assets/img/ocean.jpg
 ---
     
 <center><b> I’m a student @ UC Berkeley enjoys creating & exploring.  Found passion for data & now study stats  </b>
 I like the outdoors and am a dog person, I'm interested in education reform & artificial intelligence
- You can find my resume [here]()
+ You can find my resume [here]()  Reach me at: 
  </center>
 
 
@@ -16,15 +17,21 @@ I like the outdoors and am a dog person, I'm interested in education reform & ar
 	- insert [syllablus]()
 	- role: USI
 	- responsibilities
-* Happiness Advantage: 
-	- Based on Shawn Achor's [Happiness Advantage]()
 
 ## Research
-* CAHLR
+* [CAHLR](githublink):
+	- Studied the efficacy of lifting machine learning models from other domains to gain insight into classroom interactions and address pressing issues in the education field
+	- E.g. representation learning via Word2Vec
+	- Link to askoski pg
 
 ## Awards
-* SURF Grant: <a href=http://surf.berkeley.edu/surf-fellows/detail/3789> </a>
-* Rose Hills Scholarship
+- <a href='http://surf.berkeley.edu/surf-fellows/detail/3789'> SURF Grant Award </a> 
+- Rose Hills Scholarship
+
+## Personal Pursuits
+- I help faciliatate the [Happiness Advantage DeCal](decalpg), which is a student run course.  Based on Shawn Achor's [Happiness Advantage](amazonlink)
+- DragonBoat
+<!-- - CalBoxing would be nice -->
 
 --- 
 <br>
@@ -32,11 +39,10 @@ I like the outdoors and am a dog person, I'm interested in education reform & ar
 <center> <h2> Miscellaneous </h2> </center>
 
 ### People who've influenced me the most
-
-1. Susan Cain
-1. Cal Newport
-1. David Goggins
-1. David Attenborough
+1. Susan Cain - accept identity
+1. Cal Newport - 
+1. David Goggins - for being a mentally tough badass
+1. David Attenborough - nature documentary
 
 <center> <h3> Reading List </h3> </center>
 
@@ -68,6 +74,3 @@ I like the outdoors and am a dog person, I'm interested in education reform & ar
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
