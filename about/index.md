@@ -5,12 +5,14 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><b> I’m a student @ UC Berkeley enjoys creating & exploring.  former premed turned statistics after finding a passion for data.  </b> You can find my resume [here]()
+<center><b> I’m a student @ UC Berkeley enjoys creating & exploring.  Found passion for data & now study stats  </b>
+I like the outdoors and am a dog person, I'm interested in education reform & artificial intelligence
+ You can find my resume [here]()
  </center>
 
 
 ## Teaching
-* Stat89A: Linear Algebra for Data Science
+* Stat89A: [Linear Algebra for Data Science](https://www.stat.berkeley.edu/~mmahoney/s18-lads/)
 	- insert [syllablus]()
 	- role: USI
 	- responsibilities
@@ -36,9 +38,8 @@ comments: false
 1. David Goggins
 1. David Attenborough
 
-### Reading List
+<center> <h3> Reading List </h3> </center>
 
-see HA intro slide + fav website = quora, 
 
 | General 							| Essays & Plays 
 |--------							|------- 
@@ -48,25 +49,14 @@ see HA intro slide + fav website = quora,
 | how to prove it (include link to notes)   | cell5   
 {: rules="groups"}
 
-### Shows
+<center> <h3> Shows </h3> </center>
 
-| General 						| Essays & Plays |
-|--------					    |------- |
-| _Quiet_ by Susan Cain   		| death of a salesman   |
-|  	asdfasdf					| Myth of sisyphus - camus   |
-| Stephen king book   		    | On transcience - freud    | 
-| how to prove it (include link to notes)   | cell5   |
+| Shows 						| Movies & Youtube Channels |
+|--------					    |-------        |
+| _Bojack Horseman_      		| _3 Idiots_   |
+|  _Planet Earth_				|               |
+| _Cosmos: A Personal Voyage_ 	| [dict of obscure sorrows]()  | 
 {: rules="groups"}
-
-### Shows
-1. Bojack Horseman
-1. Planet Earth
-1. 3 Idiots
-1. Cosmos: A Personal Voyage
-
-### Youtube Channels
-1. [dict of obscure sorrows]()
-1. shots of awe? 
 
 --- 
 

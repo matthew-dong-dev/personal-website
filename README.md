@@ -2,14 +2,10 @@
 
 ## What do you need to do to achieve a minimally viable website for PennApps?
 
-1. write a description regarding askoski for your website and a shortened version for your resume & for hackathon
-	- see the intro you wrote for the SURF program
+1. Askoski description: for your website & hackathon and a shortened version for your resume 
 	- overview: combination of web dev & machine learning
 	- in progress is new search feature 
 		- did ML research to produce keywords from mapping word2vec vectors onto BOW space that are searchable
-	- point to repo
-	- developed search feature in angular
-	- tools used: Angular, Python...
 1. transfer *By the Numbers 2*
 1. finish resume
 1. finish about me page & find where to set thumbnail image?

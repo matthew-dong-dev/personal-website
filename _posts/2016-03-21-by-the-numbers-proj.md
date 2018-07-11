@@ -5,7 +5,12 @@ date:   2016-04-06
 excerpt: "Data analysis on biometic data collected on my life"
 project: true
 comments: true
+permalink: by-the-numbers
 ---
+
+Extensive and ongoing personal case study spanning multiple years based on data collected on my own individual study habits, sleep patterns, spending routines, and others.  
+
+Wrote articles communicating results revealed by subsequent statistical analyses
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     

@@ -13,7 +13,7 @@ feature: assets/img/featured_images/askoski.png
 
 ## Background
 
-- Web infrastructure in most schools have remained static in a rapidly evolving society; in particular, variety in course enrollment platforms remains lacking in higher education. To provide greater personalized course guidance to individual students, AskOski leverages machine learning systems lifted from other domains to the education field to build a recommender system that suggests courses to users based on similar student profiles. [Brochure]({{site.url}}/assets/files/askoski_brochure.pdf)
+- Web infrastructure in most schools have remained static in a rapidly evolving society; in particular, variety in course enrollment platforms remains lacking in higher education. To provide greater personalized course guidance to individual students, AskOski leverages machine learning models lifted from other domains to the education field to build a recommender system that suggests courses to users based on similar student profiles. [Brochure]({{site.url}}/assets/files/askoski_brochure.pdf)
 
 - (In development) My role included incorporating an intelligent search function in addition to the main features of the site, allowing students to query general subjects or specific concepts before returning the most relevant matches.  <!-- [Proposal summary]({{site.url}}/assets/files/askoski_search_proposal.pdf) -->
 
