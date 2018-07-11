@@ -1,14 +1,12 @@
 ### https://mdong127.github.io/
 
 ## What do you need to do to achieve a minimally viable website for PennApps?
-
 1. transfer *By the Numbers 2*
 1. finish resume & add to site
 1. finish about me page 
 1. change favicon & remove dummy posts
 
 ## To do (Tier 1): 
-
 	DON'T FORGET TO CHANGE URL before pushing
 	Fixes: 
 		- https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development
@@ -16,21 +14,18 @@
 
 1. transfer other posts; how to add drafts
 	- Drafts are posts without a date in the filename. 
-	- add hyperlinks in *why education?*
+	- add hyperlinks in *why education* & embed videos (look through md syntax post)
 1. change email to redirect from a more generic one
 1. link to google domain: https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c 
 1. create a dev branch & make pull requests
 
 ### To do (Tier 2): 
-
 1. drop a donation
-
 1. HOW TO USE analytics CODE? Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example._
 	- https://taylantatli.github.io/Moon/moon-theme/
-
 1. Configuring Travis CI on your repo is a great way to track failing builds as well - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
-
 1. regex for all png and jpg files?  `\.(png|jpg)`
+1. add option to search by tags
 
 ## Completed: 
 1. [x] customize background (picture or color) & logo (prof pic)

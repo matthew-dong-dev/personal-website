@@ -11,30 +11,42 @@ I like the outdoors and am a dog person, I'm interested in education reform & ar
  You can find my resume [here]()  Reach me at: 
  </center>
 
+<br>
 
-## Teaching
+---
+
+<center> <h2> Primary Info </h2> </center>
+
+### Teaching
 * Stat89A: [Linear Algebra for Data Science](https://www.stat.berkeley.edu/~mmahoney/s18-lads/)
 	- insert [syllablus]()
 	- role: USI
 	- responsibilities
 
-## Research
+### Research
 * [CAHLR](githublink):
 	- Studied the efficacy of lifting machine learning models from other domains to gain insight into classroom interactions and address pressing issues in the education field
 	- E.g. representation learning via Word2Vec
 	- Link to askoski pg
 
-## Awards
+### Awards
 - <a href='http://surf.berkeley.edu/surf-fellows/detail/3789'> SURF Grant Award </a> 
 - Rose Hills Scholarship
 
-## Personal Pursuits
+### Personal Pursuits
 - I help faciliatate the [Happiness Advantage DeCal](decalpg), which is a student run course.  Based on Shawn Achor's [Happiness Advantage](amazonlink)
 - DragonBoat
 <!-- - CalBoxing would be nice -->
 
---- 
 <br>
+
+{% capture images %}
+    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+
+--- 
 
 <center> <h2> Miscellaneous </h2> </center>
 
@@ -44,6 +56,7 @@ I like the outdoors and am a dog person, I'm interested in education reform & ar
 1. David Goggins - for being a mentally tough badass
 1. David Attenborough - nature documentary
 
+<br>
 <center> <h3> Reading List </h3> </center>
 
 
@@ -66,11 +79,4 @@ I like the outdoors and am a dog person, I'm interested in education reform & ar
 
 --- 
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
