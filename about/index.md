@@ -6,16 +6,15 @@ comments: false
 feature: assets/img/ocean.jpg
 ---
     
-<center><b> I’m a student @ UC Berkeley enjoys creating & exploring.  Found passion for data & now study stats  </b>
-I like the outdoors and am a dog person, I'm interested in education reform & artificial intelligence
- You can find my resume [here]()  Reach me at: 
- </center>
+<center> I’m a student who enjoys creating & exploring, I like the outdoors and am a dog person.  I'm interested in education reform & artificial intelligence. </center>
 
 <br>
 
 ---
 
 <center> <h2> Primary Info </h2> </center>
+
+You can find my resume [here](insert_pdf) and can reach me at: _mdong@berkeley.edu_. 
 
 ### Teaching
 * Stat89A: [Linear Algebra for Data Science](https://www.stat.berkeley.edu/~mmahoney/s18-lads/)
