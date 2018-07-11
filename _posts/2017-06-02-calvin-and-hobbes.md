@@ -3,7 +3,7 @@ layout: post
 title: "Calvin and Hobbes: More Than Just a Comic Strip"
 date: 2017-06-02
 excerpt: "Three words to describe _Calvin and Hobbes_ are timeless, magical, and transcendent."
-feature: images/featured_images/calvin-hobbes.jpg
+feature: assets/img/featured_images/calvin-hobbes.jpg
 comments: true
 reading_time: true
 tag: [personal-writing, calvin-and-hobbes]

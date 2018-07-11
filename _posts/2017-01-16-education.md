@@ -5,7 +5,7 @@ date:   2017-01-16
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 
 comments: true
-feature: images/featured_images/bridge.jpg
+feature: assets/img/featured_images/bridge.jpg
 reading_time: true
 tag: [personal-writing, education, reform]
 ---
