@@ -2,9 +2,7 @@
 
 ## What do you need to do to achieve a minimally viable website for PennApps?
 1. transfer *By the Numbers 2*
-1. finish resume & add to site
-1. finish about me page 
-1. change favicon & remove dummy posts
+1. change favicon & remove dummy posts & finish about me
 
 ## To do (Tier 1): 
 	DON'T FORGET TO CHANGE URL before pushing

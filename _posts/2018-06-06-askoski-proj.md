@@ -7,6 +7,7 @@ excerpt: "UC Berkeley course recommendation system.  Explore personalized course
 project: true
 reading_time: false
 feature: assets/img/featured_images/askoski.png
+permalink: askoski
 ---
 
 # [Checkout AskOski](https://askoski.berkeley.edu/){: .btn} 

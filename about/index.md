@@ -6,34 +6,39 @@ comments: false
 feature: assets/img/ocean.jpg
 ---
     
-<center> I’m a student who enjoys creating & exploring, I like the outdoors and am a dog person.  I'm interested in education reform & artificial intelligence. </center>
-
-<br>
+<center>  I’m a student who enjoys creating, traveling, and exploring.  I believe in balance & simplicity, prefer to be outdoors, and would like to own a Bernese Mountain Dog.  In terms of the future, I'm interested in the intersection of education reform, data science, and sustainability.  </center>
 
 ---
 
 <center> <h2> Primary Info </h2> </center>
 
-You can find my resume [here](insert_pdf) and can reach me at: _mdong@berkeley.edu_. 
-
-### Teaching
-* Stat89A: [Linear Algebra for Data Science](https://www.stat.berkeley.edu/~mmahoney/s18-lads/)
-	- insert [syllablus]()
-	- role: USI
-	- responsibilities
+You can find my resume [here]({{site.url}}/assets/files/matthew_dong_resume.pdf) and can reach me at: _mdong@berkeley.edu_. 
 
 ### Research
-* [CAHLR](githublink):
-	- Studied the efficacy of lifting machine learning models from other domains to gain insight into classroom interactions and address pressing issues in the education field
-	- E.g. representation learning via Word2Vec
-	- Link to askoski pg
+* Computational Approaches to Human Learning:
+	- Working under the supervision of Zachary Pardos at [CAHLR](https://github.com/CAHLR)
+	- Studying the efficacy of machine learning models lifted from other domains to an educational context  
+	- gain insight into classroom / student interactions and addressing  issues in the education field
+	- Current Project: [AskOski]({% post_url 2018-06-06-askoski-proj %})
+
+
+### Teaching
+
+* Stat89A: [Linear Algebra for Data Science]({{site.url}}/assets/files/stat89a_syllabus.pdf)
+	- Role: Course Developer & Undergraduate Student Instructor (USI)
+	- Responsibilities included maintaining course infrastructure & working with Michael Mahoney to prototype and refine course materials including homework assignments and projects for the pilot 4-unit offering of the course.  
+
+<!-- ### Experience -->
+<!-- Datakind would be nice -->
 
 ### Awards
-- <a href='http://surf.berkeley.edu/surf-fellows/detail/3789'> SURF Grant Award </a> 
-- Rose Hills Scholarship
+- Undergraduate Research Fellow (Summer 2018)
+	- Received $6,000 grant to conduct educational data mining research project under the guidance of a faculty mentor
+- The Rose Hills Foundation Science & Engineering Scholarship: 
+	- Received meritorious scholarship based on academic achievement funding tuition for the entirety of the 2017-18 school year
 
 ### Personal Pursuits
-- I help faciliatate the [Happiness Advantage DeCal](decalpg), which is a student run course.  Based on Shawn Achor's [Happiness Advantage](amazonlink)
+- I help teach the [Happiness Advantage DeCal](decalpg), which is a student run course based on Shawn Achor's novel [_The Happiness Advantage_](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549).
 - DragonBoat
 <!-- - CalBoxing would be nice -->
 
@@ -67,7 +72,7 @@ You can find my resume [here](insert_pdf) and can reach me at: _mdong@berkeley.e
 | how to prove it (include link to notes)   | cell5   
 {: rules="groups"}
 
-<center> <h3> Shows </h3> </center>
+<center> <h3> Shows & Such </h3> </center>
 
 | Shows 						| Movies & Youtube Channels |
 |--------					    |-------        |
@@ -76,6 +81,5 @@ You can find my resume [here](insert_pdf) and can reach me at: _mdong@berkeley.e
 | _Cosmos: A Personal Voyage_ 	| [dict of obscure sorrows]()  | 
 {: rules="groups"}
 
---- 
 
 

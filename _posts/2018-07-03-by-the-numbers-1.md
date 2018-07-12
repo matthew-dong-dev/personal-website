@@ -160,6 +160,6 @@ Category Labels
 1. Calories
 
 [f16.md]: https://github.com/mdong127/F16_Analysis
-[maximize the one's courseload and extracurriculars]: https://github.com/mdong127/F16_Analysis
+<!-- [maximize the one's courseload and extracurriculars]: https://github.com/mdong127/F16_Analysis -->
 
 
