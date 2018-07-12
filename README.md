@@ -2,7 +2,7 @@
 
 ## What do you need to do to achieve a minimally viable website for PennApps?
 1. transfer *By the Numbers 2*
-1. change favicon & remove dummy posts & finish about me
+1. finish about me & remove dummy posts in posts & projects
 
 ## To do (Tier 1): 
 	DON'T FORGET TO CHANGE URL before pushing
@@ -19,14 +19,15 @@
 
 ### To do (Tier 2): 
 1. drop a donation
-1. HOW TO USE analytics CODE? Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example._
+1. HOW TO USE analytics CODE? http://jmcglone.com/guides/github-pages/ Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example._
 	- https://taylantatli.github.io/Moon/moon-theme/
 1. Configuring Travis CI on your repo is a great way to track failing builds as well - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
 1. regex for all png and jpg files?  `\.(png|jpg)`
+1. look into development setting: https://jekyllrb.com/docs/usage/ 
 1. add option to search by tags
 
 ## Completed: 
-1. [x] customize background (picture or color) & logo (prof pic)
+1. [x] customize background (picture or color) & logo (prof pic) & favicon
 1. [x] insert markdownify into liquid templating for post list & projects layouts
 1. [x] fix permalink issue with extra backslash 
 1. [x] insert a basic _by the numbers post_ w/ images, YAML header, etc... 

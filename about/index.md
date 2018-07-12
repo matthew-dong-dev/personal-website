@@ -10,6 +10,7 @@ feature: assets/img/ocean.jpg
 
 ---
 
+
 <center> <h2> Primary Info </h2> </center>
 
 You can find my resume [here]({{site.url}}/assets/files/matthew_dong_resume.pdf) and can reach me at: _mdong@berkeley.edu_. 
@@ -24,7 +25,7 @@ You can find my resume [here]({{site.url}}/assets/files/matthew_dong_resume.pdf)
 
 ### Teaching
 
-* Stat89A: [Linear Algebra for Data Science]({{site.url}}/assets/files/stat89a_syllabus.pdf)
+* Stat 89A: [Linear Algebra for Data Science]({{site.url}}/assets/files/stat89a_syllabus.pdf)
 	- Role: Course Developer & Undergraduate Student Instructor (USI)
 	- Responsibilities included maintaining course infrastructure & working with Michael Mahoney to prototype and refine course materials including homework assignments and projects for the pilot 4-unit offering of the course.  
 
@@ -44,12 +45,7 @@ You can find my resume [here]({{site.url}}/assets/files/matthew_dong_resume.pdf)
 
 <br>
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
+<!-- ![insert image here]({{site.url}}/assets/img/hamburger.jpg)  -->   
 --- 
 
 <center> <h2> Miscellaneous </h2> </center>

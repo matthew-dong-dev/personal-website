@@ -10,9 +10,7 @@ reading_time: true
 
 Welcome to By The Numbers 2!
 
-{% post_url 2018-06-06-askoski-proj %}
-
-Background: This is a continuation of the [first iteration]() of my biometric analysis, with more data and more advanced techniques.  The goal was to predict a new metric representing *happiness* - a value from 1-20 measuring how I felt that day in terms of well-being and contentment.  Although the features in this dataset were not the conventional predictors of happiness, it was still interesting to see if there were any relationships between them.  This project was completed in five main stages and here's a disclaimer that there may be inaccuracies in my analysis.  That being said, onto the project!
+Background: This is a continuation of the [first iteration]({% post_url 2018-07-03-by-the-numbers-1 %}) of my biometric analysis, with more data and more advanced techniques.  The goal was to predict a new metric representing *happiness* - a value from 1-20 measuring how I felt that day in terms of well-being and contentment.  Although the features in this dataset were not the conventional predictors of happiness, it was still interesting to see if there were any relationships between them.  This project was completed in five main stages and here's a disclaimer that there may be inaccuracies in my analysis.  That being said, onto the project!
 
 --- 
 
@@ -71,7 +69,7 @@ The expected runs of the length k in n flips of a p-coin is given by the followi
 
 \\[ (n-k-1)p^k(1-p)^2+2p^k(1-p) = (n-k)p^k(1-p)^2+p^k(1-p^2) \\]
 
-For us, we want \\( p = \frac{1}{2} \\) and N = the 110 days that existed in the data.
+For us, we want \\( p = \frac{1}{2} \\)  and N = the 110 days that existed in the data.
 
 Here's the theoretical frequencies of runs, which decay rapidly with the expected number of runs of length 4 or 5 approaching 0.  So if the data were truly missing at random, we shouldn't see too many intervals 3+ days missing at a time.  
 
@@ -82,7 +80,7 @@ The expected number of runs was calculated for the actual data, and the next ba
 Visually our sample doesn't seem to be abnormal, meaning the data could have been missing completely at random, but to quantify the difference between these two distributions, the metric _total variation distance_ (TVD) was used.  The observed test statistic between the collected data and expected values is **4.25**.
 
 
-The p-value generated was 0.2605, (>.05) so we fail to reject the null and conclude that the data from this column was missing completely at random, so it can be safely imputed.  I believed that the data was MAR because I thought it was probably correlated with either amount of sleep or time of the year (busy around exams so didn't track information), but our hypothesis test has told us otherwise.  However, I still removed this feature since the data was so sparse it would contribute more noise to the overall model.  
+The p-value generated was $$0.2605, (>.05)$$ so we fail to reject the null and conclude that the data from this column was missing completely at random, so it can be safely imputed.  I believed that the data was MAR because I thought it was probably correlated with either amount of sleep or time of the year (busy around exams so didn't track information), but our hypothesis test has told us otherwise.  However, I still removed this feature since the data was so sparse it would contribute more noise to the overall model.  
 
 ## Phase III: Imputation via Linear Regression
 
@@ -99,6 +97,73 @@ The second option was to use `Remaining Time`instead, but the values correspondi
 The last resort was to use `Calories` to predict time spent on math, which seems strange on the surface.  The correlation was a reasonable -0.47 and at least the predictor column was complete and there was less of a chance for overfitting.  So I fit a least squares model to for `Math Immersion` vs `Calories`, and would predict the missing values in the math column using the model.  The plots below shows the best fit line and the residuals.
 
 ## Phase IV: Complete the Dataset
+
+The remaining columns: `Personal Endeavors`, `College Logistics`, `Data Science`, and `Efficiency` all ranged from 35% - 45% missing and would be imputed using the MICE package in R through predictive mean matching (PMM). The plots below depict the imputed (magenta points) vs observed values (blue points).  Because the densities of the imputed values and the original distributions are similar, the predicted values are probably plausible.
+
+<!-- insert density plot -->
+
+`Efficiency` doesn't match, but it will be recalculated from the completely imputed data, through the recalculation of `Total Productive Time` & `Remaining Time`.
+
+With all the columns filled in and recalculations complete, here is a faceted time series of the final dataset.  It looks cool and it's interesting to glance at the periodicities to see if any patterns can be picked out visually.
+
+<!-- insert time series -->
+
+## Phase V: Dimensionality Reduction
+
+With a completed dataset, it was now possible to run principal component reduction (PCA) to possibly determine what linear combinations of the features are the best predictors of happiness.  Before doing so, categorical variables were removed and each column was standardized by mean centering & normalization so the algorithm was not skewed towards predictors with greater magnitudes or wider distributions.
+
+In the scree plot we can see the first 2 principal components (PCs) capture $$>50\%$$ of the variance, and we can extract the feature weights of these top two PCs.  
+
+<!-- insert scree & PC's -->
+
+<figure class="half">
+    <!-- <a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a> -->
+    <img src="/assets/img/bg1.jpg">
+    <a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+    <figcaption>Two images.</figcaption>
+</figure>
+
+{% capture images %}
+    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+
+
+Here's the 11 dimensional dataset projected onto these two components, along with each projected feature vector (observation/row) and the magnitude & direction of each feature.
+
+<!-- biplot -->
+
+- the red arrows point to how much weight the features contribute to each principal component
+- for the black labels, they can be interpreted as a combination of the red vectors (depending only on direction)
+- note it is difficult to say anything in terms of distances, only direction because the scale of the circle of correlations and the graph of the variables are different
+
+We can then fit a model trying to predict `Happiness.Index` using the principal components as features.  The root mean squared error for the principal component regression is plotted below, where the model was fit using each of 1-10 components.   
+
+<!--  -->
+
+The range of `Happiness.Index` was discrete values from 1-20 so the discrepancy between using only 1 component vs all 10 components wasn't too bad, considered the range in errors was only about .06, or $.3% difference in the actual possible values.  But we know that some of the original features are direct linear combinations of the others (e.g. `Total Sleep` & `Total Productive Time` so less is more in this case to avoid overfitting.  
+
+A multiple regression model was trained using the first 2 components ($$RMSE = 1.477$4) and a scatterplot of fitted values vs measured values is shown below.
+
+<!-- fitted vs measured -->
+
+
+
+In the future we'd like a more scrutable model since we can't explicitly say which variables contributed most to happiness, but first twos iteration of this ongoing project primarily emphasized exploratory data analysis & so hopefully the third iteration will have an emphasis in modeling with more data & additional features.
+
+That concludes By the Numbers 2!  Thank you for reading, feel free to let me know of any corrections/feedback.  
+
+Code used is [here][btn2.md] 
+
+Possible Continuations
+
+Classification: If described the features of a day, what day of the week is it most likely to come from?  Create a shiny app using sliders.
+Increase dimensionality: Incorporate habits check ins from Coach.Me.
+Rerun multiple regression without PCA - verify that PCR should be better.
+Question: Does time you sleep matter or just amount of sleep?
+Extend time series to include summers, as well as connect with past semesters.
+Results change with every iteration?  where does the randomness exist? 
 
 
 
