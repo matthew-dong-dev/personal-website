@@ -5,12 +5,12 @@ description:        "config description"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/prof.jpg'
-background:         'assets/img/bg1.jpg'
+background:         'assets/img/computer_bg.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 timezone:           America/Los_Angeles
-url:                http://localhost:4000
-# url:                https://mdong127.github.io
+# url:                http://localhost:4000
+url:                https://mdong127.github.io
 
 # Jekyll
 permalink:          /:title/

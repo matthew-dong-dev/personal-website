@@ -3,7 +3,7 @@ layout: page
 title: About Me
 date: 2016-03-21
 comments: false
-feature: assets/img/ocean.jpg
+feature: assets/img/norway.jpg
 ---
     
 <center>  I’m a student who enjoys creating, traveling, and exploring.  I believe in balance & simplicity, prefer to be outdoors, and would like to own a Bernese Mountain Dog.  In terms of the future, I'm interested in the intersection of education reform, data science, and sustainability.  </center>
@@ -43,9 +43,12 @@ You can find my resume [here]({{site.url}}/assets/files/matthew_dong_resume.pdf)
 - DragonBoat
 <!-- - CalBoxing would be nice -->
 
-<br>
+<figure class="half">
+    <img src="/assets/img/beach.jpg">
+    <img src="/assets/img/lake.jpg">
+</figure>
 
-<!-- ![insert image here]({{site.url}}/assets/img/hamburger.jpg)  -->   
+
 --- 
 
 <center> <h2> Miscellaneous </h2> </center>

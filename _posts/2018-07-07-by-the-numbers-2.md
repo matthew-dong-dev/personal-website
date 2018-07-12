@@ -75,6 +75,8 @@ Here's the theoretical frequencies of runs, which decay rapidly with the expecte
 
 The expected number of runs was calculated for the actual data, and the next bar plot illustrates the difference between this and observed frequency of runs in our sample.
 
+<!-- ![insert image here]({{site.url}}/assets/img/hamburger.jpg)  -->   
+
 <!-- insert plot -->
 
 Visually our sample doesn't seem to be abnormal, meaning the data could have been missing completely at random, but to quantify the difference between these two distributions, the metric _total variation distance_ (TVD) was used.  The observed test statistic between the collected data and expected values is **4.25**.
