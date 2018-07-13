@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Semester 1: By The Numbers"
+title:  "By The Numbers 1"
 date:   2018-07-03
 categories: jekyll update
 excerpt: "<p style='text-align: left;'> <i> \"You can't control what you can't measure.\"  </i> - Me (but not really) </p>"  

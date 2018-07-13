@@ -13,7 +13,6 @@ Here are some examples of what a post with images might look like. If you want t
 
 #### One Up
 
-
 ![Ask Oski](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
 
 

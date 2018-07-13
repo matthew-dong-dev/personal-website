@@ -11,14 +11,16 @@
 		- https://jekyllrb.com/docs/variables/
 
 1. transfer other posts; how to add drafts
-	- Drafts are posts without a date in the filename. 
+	- Drafts are posts without a date in the filename.  How to build with draft? 
 	- add hyperlinks in *why education* & embed videos (look through md syntax post)
 1. change email to redirect from a more generic one
 1. link to google domain: https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c 
 1. create a dev branch & make pull requests
+1. fix back button to use font icon
 
 ### To do (Tier 2): 
 1. drop a donation
+1. fix disqus
 1. HOW TO USE analytics CODE? http://jmcglone.com/guides/github-pages/ Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example._
 	- https://taylantatli.github.io/Moon/moon-theme/
 1. Configuring Travis CI on your repo is a great way to track failing builds as well - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html

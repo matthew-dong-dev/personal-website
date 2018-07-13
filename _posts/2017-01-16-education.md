@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Education?"
 date:   2017-01-16
-excerpt: "Education is the most powerful weapon which you can use to change the world."
+excerpt: "\"Education is the most powerful weapon which you can use to change the world.\" - Mandela"
 
 comments: true
 feature: assets/img/featured_images/bridge.jpg

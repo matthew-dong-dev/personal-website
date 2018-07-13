@@ -7,6 +7,7 @@
 	font-size: 100%;
 }
 
+img + em { display: block; text-align: center;}
 
 html {
 	@extend %extend1;
