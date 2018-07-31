@@ -8,7 +8,7 @@
 ## To do (Tier 1): 
 1. link to google domain: https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c
 1. drop a donation
-1. have temporary placeholder for HA website
+1. have temporary placeholder for HA website & practical applications (choose a better name)
 1. transfer other posts; how to add drafts? 
 	- Drafts are posts without a date in the filename.  How to exec build with draft? 
 	- add hyperlinks in *why education* & embed videos (look through md syntax post)
