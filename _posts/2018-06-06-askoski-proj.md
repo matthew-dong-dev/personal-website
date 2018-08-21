@@ -15,7 +15,7 @@ permalink: askoski
 ## Background
 
 - Web infrastructure in most schools has remained static in an increasingly technological society; in particular, variety in course enrollment platforms remains lacking in higher education. To provide greater personalized course guidance to individual students, _AskOski_ is a state-of-the-art recommender system that lifts machine learning methodologies from other domains to the education field to help improve learning outcomes.  Through historic enrollment data, _AskOski_ suggests courses to users based on similar sequences past students have taken. [Brochure]({{site.url}}/assets/files/askoski_brochure.pdf). 
-- The current system is available to the entire undergraduate population at UC Berkeley, with active collaboration to expand to Laney College and UC Irvine.  
+- The current system is available to the entire undergraduate population at UC Berkeley, with active collaboration to expand to UC Irvine and Laney College.  
 
 ### My Involvement 
 

@@ -31,7 +31,7 @@ You can find my resume [here]({{site.url}}/assets/files/matthew-dong-resume.pdf)
 ### Awards
 - Undergraduate Research Fellow (Summer 2018)
 	- Received $6,000 grant to conduct a research project under the guidance of a faculty mentor. 
-	- Check out [my work]({{site.url}}/assets/files/research-poster-final.pdf).
+	- Check out my work on [representation learning in course discovery]({{site.url}}/assets/files/research-poster-final.pdf).
 - The Rose Hills Foundation Science & Engineering Scholarship: 
 	- Meritorious scholarship received based on academic achievement.
 	- Funded tuition for the entirety of the 2017-18 school year.

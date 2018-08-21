@@ -9,7 +9,7 @@ permalink: by-the-numbers
 range: "2014 - Present" 
 ---
 
-To combat my severe procrastination & inefficient studying, I started tracking my studying and sleeping habits midway through high school just to figure out where all my time was going.  Since then I've expanded to collecting data on my spending routines, calories, happiness, stress and more.  These are my attempts to make sense of that data. 
+To combat my severe procrastination & inefficient studying, midway through high school I started tracking my studying and sleeping habits just to figure out where all my time was going.  Since then I've expanded to collecting data on my spending routines, eating habits, happiness, stress and more.  These are my attempts to make sense of that data. 
 
 1. [By the Numbers 1]({% post_url 2018-07-03-by-the-numbers-1 %})
 1. [By the Numbers 2]({% post_url 2018-07-07-by-the-numbers-2 %})
