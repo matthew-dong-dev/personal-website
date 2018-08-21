@@ -2,29 +2,31 @@
 
 	DON'T FORGET TO CHANGE URL before pushing
 	Potential Fixes: 
-		- https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development
-		- https://jekyllrb.com/docs/variables/
+	- https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development
+	- https://jekyllrb.com/docs/variables/
 
 ## To do (Tier 1): 
-1. link to google domain: https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c
-1. drop a donation
-1. have temporary placeholder for HA website & practical applications (choose a better name)
+
+1. upload temporary practical applications file
+1. add temporary placeholder project for HA website 
 1. transfer other posts; how to add drafts? 
 	- Drafts are posts without a date in the filename.  How to exec build with draft? 
 	- add hyperlinks in *why education* & embed videos (look through md syntax post)
-1. change email to redirect from a more generic one
+1. change email to redirect to a more generic one
 1. create a dev branch & make pull requests
 
 ### To do (Tier 2): 
+1. enable https - SSL certificate
 1. fix disqus & fix back button to use font icon
 1. How to use analytics code? http://jmcglone.com/guides/github-pages/ Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example._
 	- https://taylantatli.github.io/Moon/moon-theme/
 1. Configuring Travis CI on your repo is a great way to track failing builds as well - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
 1. regex for all png and jpg files?  `\.(png|jpg)`
 1. look into dev settings: https://jekyllrb.com/docs/usage/ 
-1. add option to search by tags
+1. add option to search by tags (see template version)
 
 ## Completed: 
+1. [x] sync to custom domain: https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c
 1. [x] customize background (picture or color) & logo (prof pic) & favicon
 1. [x] insert markdownify into liquid templating for post list & projects layouts
 1. [x] fix permalink issue with extra backslash 

@@ -12,32 +12,33 @@ feature: assets/img/norway.jpg
 
 <center> <h2> Primary Info </h2> </center>
 
-You can find my resume [here]({{site.url}}/assets/files/matthew_dong_resume.pdf) and reach me at: _mdong@berkeley.edu_. 
+You can find my resume [here]({{site.url}}/assets/files/matthew-dong-resume.pdf) and reach me at: _mdong@berkeley.edu_. 
 
 ### Research
 * Computational Approaches to Human Learning:
 	- Working under the supervision of Zachary Pardos at [CAHLR](https://github.com/CAHLR)
-	- Studying the efficacy of machine learning models lifted from other domains to an educational context  (e.g. gaining insight into classroom / student interactions through representation learning to help improve learning outcomes)
+	- Studying lifting machine learning methodologies from other domains to an educational context to help improve learning outcomes)
 	- Current Project: [AskOski]({% post_url 2018-06-06-askoski-proj %})
 
 ### Teaching
 * Stat 89A: [Linear Algebra for Data Science]({{site.url}}/assets/files/stat89a_syllabus.pdf)
 	- Role: Course Developer & Undergraduate Student Instructor (USI)
-	- Responsibilities included maintaining course infrastructure & working with Michael Mahoney to prototype and refine course materials including homework assignments and projects for the pilot 4-unit offering of the course.  
+	- Responsibilities include maintaining course infrastructure & working with Michael Mahoney to prototype and refine course materials including homework assignments and projects for the pilot 4-unit offering of the course.  
 
 <!-- ### Experience -->
 <!-- Datakind would be nice -->
 
 ### Awards
 - Undergraduate Research Fellow (Summer 2018)
-	- Received $6,000 grant to conduct educational data mining research project under the guidance of a faculty mentor
+	- Received $6,000 grant to conduct a research project under the guidance of a faculty mentor. 
+	- Check out [my work]({{site.url}}/assets/files/research-poster-final.pdf).
 - The Rose Hills Foundation Science & Engineering Scholarship: 
-	- Received meritorious scholarship based on academic achievement 
-	- Funded tuition for the entirety of the 2017-18 school year
+	- Meritorious scholarship received based on academic achievement.
+	- Funded tuition for the entirety of the 2017-18 school year.
 
 ### Personal Pursuits
-- I help teach the [Happiness Advantage DeCal](https://decal.berkeley.edu/courses/4351), which is a student run course based on Shawn Achor's novel [_The Happiness Advantage_](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549).
-- DragonBoat - I paddle with XG (X-Generals), based in Long Beach, CA. 
+- I help teach the [Happiness Advantage DeCal](https://decal.berkeley.edu/courses/4351), which is a student run course based on Shawn Achor's bestseller [_The Happiness Advantage_](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549).
+- DragonBoat - I paddle with XG (X-Generals), from Long Beach, CA. 
 <!-- - CalBoxing would be nice -->
 
 <figure class="center">
@@ -56,15 +57,15 @@ You can find my resume [here]({{site.url}}/assets/files/matthew_dong_resume.pdf)
 
 <center> <h3> Reading List </h3> </center>
 
-| General    									|  Other
+| Books 										|  Other
 |--------										|------- 
 | _Quiet_ by Susan Cain   						| _Death of a Salesman_ by Arthur Miller
-|  _Man's Search for Meaning_ by Viktor Frankl 	|  _How to Prove It_ by Daniel Velleman   |
-| _Humans of New York: Stories_ by Brandon Stanton	| _On Transience_ by Sigmund Freud | 
+|  _Man's Search for Meaning_ by Viktor Frankl 	|  _Humans of New York: Stories_ by Brandon Stanton   |
+| _Gates of Fire_ by Steven Pressfield | _On Transience_ by Sigmund Freud | 
 | _The Shining_ by Stephen King 			    |    
 {: rules="groups"}
 
-<center> <h3> Shows & Such </h3> </center>
+<center> <h3> Watching List </h3> </center>
 
 | Shows 						| Movies & Youtube Channels |
 |--------					    |-------        |

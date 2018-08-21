@@ -14,14 +14,11 @@ permalink: askoski
 
 ## Background
 
-- Web infrastructure in most schools has remained static in a rapidly evolving society. In particular, variety in course enrollment platforms remains lacking in higher education. To provide greater personalized course guidance to individual students, AskOski leverages machine learning models lifted from other domains to the education field towards its  recommender system.  We utilize collaborative filtering & representation learning through historic enrollment sequences to suggest courses to users based on similar student profiles. [Brochure]({{site.url}}/assets/files/askoski_brochure.pdf)
+- Web infrastructure in most schools has remained static in an increasingly technological society; in particular, variety in course enrollment platforms remains lacking in higher education. To provide greater personalized course guidance to individual students, _AskOski_ is a state-of-the-art recommender system that lifts machine learning methodologies from other domains to the education field to help improve learning outcomes.  Through historic enrollment data, _AskOski_ suggests courses to users based on similar sequences past students have taken. [Brochure]({{site.url}}/assets/files/askoski_brochure.pdf). 
+- The current system is available to the entire undergraduate population at UC Berkeley, with active collaboration to expand to Laney College and UC Irvine.  
 
-- The pilot version of the system is available to the entire undergraduate & graduate student population at UC Berkeley, and active collaboration is in place to deploy the system to other college campuses including Laney College and UC Irvine.  
+### My Involvement 
 
-
-### My Involvement - Machine Learning & Web Development
-
-- (*Currently under development*) My role includes incorporating an "intelligent search" function to improve content discovery and the browsing experience, which allows students to query general subjects or specific concepts before returning the most relevant course matches.  <!-- [Proposal summary]({{site.url}}/assets/files/askoski_search_proposal.pdf) -->
-- What makes this search “intelligent” is that a query will not only be matched against course titles and descriptions, but also to an inferred keywords dictionary for each class.  These keywords are produced from a learned embedding of courses mapped to a bag of words space produced using their collective descriptions.  We will test our feature to see if we gain a semantic portrayal of courses capturing details beyond surface level course descriptions & titles.
-
-- **[Code](https://github.com/CAHLR/search-keywords/) & Tools Used:** Angular, IPython, Travis CI
+- My role includes incorporating an "intelligent search" function in addition to the main features of the site to enhance content discovery and the browsing experience. **Check out a beta version [here](https://askoski.berkeley.edu:1380/search).**
+- What makes this search “intelligent” is that a query will not only be matched against course titles and descriptions, but also to an additional search metric known as “inferred keywords.” Inferred keywords are a generalized description produced through machine learning that captures a semantic portrayal of courses beyond university catalog descriptions. More details [here]({{site.url}}/assets/files/research-poster-final.pdf). 
+- Code [here](https://github.com/CAHLR/search-keywords/).
