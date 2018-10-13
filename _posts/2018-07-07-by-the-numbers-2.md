@@ -11,13 +11,13 @@ feature: /assets/img/featured_images/btn2_ft.jpg
 
 Welcome to **By The Numbers 2**!
 
-Background: This is a continuation of the [first iteration]({% post_url 2018-07-03-by-the-numbers-1 %}) of my biometric analysis, with more data and more advanced techniques.  The goal was to predict a new metric representing *happiness* - a value from 1-20 measuring how I felt that day in terms of well-being and contentment.  Although the features in this dataset were not the conventional predictors of happiness, it was still interesting to see if there were any relationships between them.  This project was completed in five main stages and disclaimer that there may be inaccuracies in my analysis.  That being said, onto the project!
+*Background*: This is a continuation of the [first iteration]({% post_url 2018-07-03-by-the-numbers-1 %}) of my biometric analysis, with more data and more advanced techniques.  The goal was to predict a new metric representing *happiness* - a value from 1-20 measuring how I felt that day in terms of well-being and contentment.  Although the features in this dataset were not the conventional predictors of happiness, it was still interesting to see if there were any relationships between them.  This project was completed in five main stages and disclaimer that there may be inaccuracies in my analysis.  That being said, onto the project!
 
 --- 
 
 ## Phase I: Data Preprocessing
 
-This stage consisted of manipulating the data into a usable format. Skipping the boring details, the breakdown of the dataset was:
+This stage consisted of manipulating the data into a usable format. Skipping those unexciting details, the breakdown of the dataset was:
 
 - Date
 - Total Productive Time (Hours)

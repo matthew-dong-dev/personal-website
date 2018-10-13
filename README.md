@@ -1,19 +1,24 @@
 > https://mdong127.github.io/
 
-	DON'T FORGET TO CHANGE URL before pushing
-	Potential Fixes: 
+1. **Change config url** before pushing / development
+	Potential Work-arounds: 
 	- https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development
 	- https://jekyllrb.com/docs/variables/
+1. Run `bundle exec jekyll serve` for dev environment
 
 ## To do (Tier 1): 
-
-1. upload temporary practical applications file
-1. add temporary placeholder project for HA website 
 1. transfer other posts; how to add drafts? 
 	- Drafts are posts without a date in the filename.  How to exec build with draft? 
 	- add hyperlinks in *why education* & embed videos (look through md syntax post)
-1. change email to redirect to a more generic one
+1. change email to redirect to generic one
 1. create a dev branch & make pull requests
+
+## Content
+1. include Laney course search in askoski file 
+	- built a course catalog for Laney college which is a proof of concept that this is scalable and improves their class bc previously was a pdf (scale education infrastructure)
+1. add temporary placeholder project for HA website + include temporary practical applications file
+1. link other BTNs within each post
+1. add linkedIn profile + add devpost configuration to home page shortcuts (maybe not necessary for new template)
 
 ### To do (Tier 2): 
 1. enable https - SSL certificate
@@ -34,11 +39,20 @@
 1. [x] redirect post home button to proper `site.url`
 1. [x] choose & change theme & link template to your github pages page 
 
+## Content
+1. [x] update aboutMe to be in parity with resume
+	- change CAHL description to be AI in education
+	- Update website to say “recommended reading”
+	- link to projects section
+	- move cal hacks response to BTNs description 
+1. [x] include safeFront project
+
+
 --- 
+
 ### Useful commands 
 
 Jekyll:
-
 - `jekyll serve --livereload` for local version 
 	- vs `bundle exec jekyll serve`? 
 	- Note that _config.yml changes are loaded at compile time, not runtime. This means that if you’re running jekyll serve locally and you edit _config.yml, then changes to it won’t be detected. You’ll need to kill and rerun jekyll serve.

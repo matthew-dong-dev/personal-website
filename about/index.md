@@ -6,7 +6,7 @@ comments: false
 feature: assets/img/norway.jpg
 ---
     
-<center>  I’m a student who enjoys creating, writing, and exploring.  I believe in balance & simplicity, prefer to be outdoors, and would like to own a Bernese Mountain Dog.  In terms of the future, I'm interested in the intersection of education reform, data science, and sustainability.  </center>
+<center>  I’m a student who enjoys creating, writing, and exploring.  I believe in balance & simplicity, prefer to be outdoors, and would like to own a Bernese Mountain Dog.  In the future, I'm interested in the intersection of education reform, data science, and sustainability.  </center>
 
 ---
 
@@ -15,9 +15,10 @@ feature: assets/img/norway.jpg
 You can find my resume [here]({{site.url}}/assets/files/matthew-dong-resume.pdf) and reach me at: _mdong@berkeley.edu_. 
 
 ### Research
-* Computational Approaches to Human Learning:
-	- Working under the supervision of Zachary Pardos at [CAHLR](https://github.com/CAHLR)
-	- Studying lifting machine learning methodologies from other domains to an educational context to help improve learning outcomes)
+* Computational Approaches to Human Learning Research Lab [(CAHLR)](https://github.com/CAHLR):
+	- Working under the supervision of Zachary Pardos  
+	- Goals of the lab include leveraging AI and big data in education by lifting machine learning methodologies from other domains to help improve learning outcomes
+	- My work on [representation learning in course discovery]({{site.url}}/assets/files/research-poster-final.pdf).
 	- Current Project: [AskOski]({% post_url 2018-06-06-askoski-proj %})
 
 ### Teaching
@@ -25,21 +26,25 @@ You can find my resume [here]({{site.url}}/assets/files/matthew-dong-resume.pdf)
 	- Role: Course Developer & Undergraduate Student Instructor (USI)
 	- Responsibilities include maintaining course infrastructure & working with Michael Mahoney to prototype and refine course materials including homework assignments and projects for the pilot 4-unit offering of the course.  
 
-<!-- ### Experience -->
-<!-- Datakind would be nice -->
+### Projects and Experience 
+<!-- change to just experience in the future, Datakind would be nice -->
+* [Projects]({{site.url}}/projects)
+
 
 ### Awards
-- Undergraduate Research Fellow (Summer 2018)
-	- Received $6,000 grant to conduct a research project under the guidance of a faculty mentor. 
-	- Check out my work on [representation learning in course discovery]({{site.url}}/assets/files/research-poster-final.pdf).
-- The Rose Hills Foundation Science & Engineering Scholarship: 
+* Undergraduate Research Fellow (Summer 2018)
+	- Received a $6,000 grant to conduct a self-directed
+research project under the guidance of a faculty mentor. Presented completed work on educational data mining applications at an undergraduate research conference.
+* The Rose Hills Foundation Science & Engineering Scholarship: 
 	- Meritorious scholarship received based on academic achievement.
 	- Funded tuition for the entirety of the 2017-18 school year.
 
 ### Personal Pursuits
-- I help teach the [Happiness Advantage DeCal](https://decal.berkeley.edu/courses/4351), which is a student run course based on Shawn Achor's bestseller [_The Happiness Advantage_](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549).
-- DragonBoat - I paddle with XG (X-Generals), from Long Beach, CA. 
-<!-- - CalBoxing would be nice -->
+* Member of Cal Boxing team
+* For the past 2 years I've helped facilitate the Happiness Advantage DeCal, which is a student run course based on Shawn Achor's novel [_The Happiness Advantage_](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549).
+	- Our goal is to help guide & inspire others to achieve greater levels of personal contentment through scientifically grounded yet unconventional approaches to everyday life.  
+	<!-- ADD LINK TO SYLLABUS OR WEBSITE IN FUTURE  -->
+
 
 <figure class="center">
      <img src="/assets/img/beach.jpg">
@@ -55,17 +60,17 @@ You can find my resume [here]({{site.url}}/assets/files/matthew-dong-resume.pdf)
 1. David Goggins <!-- - for being a mentally tough badass -->
 1. David Attenborough <!-- - nature documentary -->
 
-<center> <h3> Reading List </h3> </center>
+<center> <h3> Favorite Readings </h3> </center>
 
 | Books 										|  Other
 |--------										|------- 
 | _Quiet_ by Susan Cain   						| _Death of a Salesman_ by Arthur Miller
 |  _Man's Search for Meaning_ by Viktor Frankl 	|  _Humans of New York: Stories_ by Brandon Stanton   |
-| _Gates of Fire_ by Steven Pressfield | _On Transience_ by Sigmund Freud | 
+| _Gates of Fire_ by Steven Pressfield |        | 
 | _The Shining_ by Stephen King 			    |    
 {: rules="groups"}
 
-<center> <h3> Watching List </h3> </center>
+<center> <h3> Favorite Things to Watch </h3> </center>
 
 | Shows 						| Movies & Youtube Channels |
 |--------					    |-------        |
