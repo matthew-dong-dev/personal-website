@@ -10,7 +10,7 @@ range: "2014 - Present"
 ---
 
 
-To fix my professional procrastination abilities and inefficient time management, I started tracking my study and sleep habits midway through secondary school to determine where all my time was going.  Soon it became a habit and five years later, I still chronicle my life data daily and have evolved this every semester since into a full on personal case study that includes expenditures, calories, happiness, stress, and more. These are my attempts to make sense of that data. 
+To fix my professional procrastination abilities and inefficient time management, I started tracking my study and sleep habits midway through secondary school to determine where all my time was going.  Soon it became a habit and five years later, I still chronicle my life data daily and have evolved this productivity blog every semester since into a full on personal case study that includes expenditures, calories, happiness, stress, and more. These are my attempts to make sense of that data. 
 
 1. [By the Numbers 1]({% post_url 2018-07-03-by-the-numbers-1 %})
 1. [By the Numbers 2]({% post_url 2018-07-07-by-the-numbers-2 %})

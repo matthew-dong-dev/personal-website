@@ -11,9 +11,10 @@
 	- Drafts are posts without a date in the filename.  How to exec build with draft? 
 	- add hyperlinks in *why education* & embed videos (look through md syntax post)
 1. change email to redirect to generic one
-1. create a dev branch & make pull requests
+1. create a dev branch for new web template
 
 ## Content
+1. less is more, pare down the excess words in everything e.g. in your about me section + askoski description is too long, remove rose hills scholarship portion
 1. include Laney course search in askoski file 
 	- built a course catalog for Laney college which is a proof of concept that this is scalable and improves their class bc previously was a pdf (scale education infrastructure)
 1. add temporary placeholder project for HA website + include temporary practical applications file
@@ -40,6 +41,7 @@
 1. [x] choose & change theme & link template to your github pages page 
 
 ## Content
+1. [x] replace cal boxing picture & Change productivity blog to biometric  
 1. [x] update aboutMe to be in parity with resume
 	- change CAHL description to be AI in education
 	- Update website to say “recommended reading”
@@ -53,8 +55,8 @@
 ### Useful commands 
 
 Jekyll:
-- `jekyll serve --livereload` for local version 
-	- vs `bundle exec jekyll serve`? 
+- `bundle exec jekyll serve` for local version 
+	- vs `jekyll serve --livereload`? 
 	- Note that _config.yml changes are loaded at compile time, not runtime. This means that if you’re running jekyll serve locally and you edit _config.yml, then changes to it won’t be detected. You’ll need to kill and rerun jekyll serve.
 - pushing changes will automatically update live website (takes a few seconds)
 - `jekyll build` ? 

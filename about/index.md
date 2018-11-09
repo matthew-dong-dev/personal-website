@@ -17,44 +17,45 @@ You can find my resume [here]({{site.url}}/assets/files/matthew-dong-resume.pdf)
 ### Research
 * Computational Approaches to Human Learning Research Lab [(CAHLR)](https://github.com/CAHLR):
 	- Working under the supervision of Zachary Pardos  
-	- Goals of the lab include leveraging AI and big data in education by lifting machine learning methodologies from other domains to help improve learning outcomes
+	- Goals of the lab include leveraging AI and big data in the education field by lifting machine learning methodologies from other domains to help improve learning outcomes
 	- My work on [representation learning in course discovery]({{site.url}}/assets/files/research-poster-final.pdf).
-	- Current Project: [AskOski]({% post_url 2018-06-06-askoski-proj %})
+
+
+### Experience 
+<!-- change to just experience in the future, Datakind would be nice -->
+* Web Developer for [AskOski]({% post_url 2018-06-06-askoski-proj %})
+* [Projects]({{site.url}}/projects)	
 
 ### Teaching
 * Stat 89A: [Linear Algebra for Data Science]({{site.url}}/assets/files/stat89a_syllabus.pdf)
 	- Role: Course Developer & Undergraduate Student Instructor (USI)
-	- Responsibilities include maintaining course infrastructure & working with Michael Mahoney to prototype and refine course materials including homework assignments and projects for the pilot 4-unit offering of the course.  
-
-### Projects and Experience 
-<!-- change to just experience in the future, Datakind would be nice -->
-* [Projects]({{site.url}}/projects)
-
+	- Responsibilities include maintaining course infrastructure & working with Michael Mahoney to prototype and refine course materials including homework assignments and projects for the pilot 4-unit offering of the course. 
 
 ### Awards
 * Undergraduate Research Fellow (Summer 2018)
 	- Received a $6,000 grant to conduct a self-directed
 research project under the guidance of a faculty mentor. Presented completed work on educational data mining applications at an undergraduate research conference.
-* The Rose Hills Foundation Science & Engineering Scholarship: 
-	- Meritorious scholarship received based on academic achievement.
-	- Funded tuition for the entirety of the 2017-18 school year.
 
-### Personal Pursuits
-* Member of Cal Boxing team
-* For the past 2 years I've helped facilitate the Happiness Advantage DeCal, which is a student run course based on Shawn Achor's novel [_The Happiness Advantage_](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549).
-	- Our goal is to help guide & inspire others to achieve greater levels of personal contentment through scientifically grounded yet unconventional approaches to everyday life.  
+<!-- * The Rose Hills Foundation Science & Engineering Scholarship: 
+	- Meritorious scholarship received based on academic achievement.
+	- Funded tuition for the entirety of the 2017-18 school year. -->
+
+### Personal Endeavors
+* I train with Cal Boxing 
+* For the past 2 years I've helped facilitate the Happiness Advantage DeCal, which is a student run course based on Shawn Achor's novel [_The Happiness Advantage_](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549). Our goal is to help others to achieve greater levels of personal contentment through scientifically grounded yet unconventional approaches to life.  
 	<!-- ADD LINK TO SYLLABUS OR WEBSITE IN FUTURE  -->
 
 
 <figure class="center">
-     <img src="/assets/img/beach.jpg">
+     <img src="/assets/img/cal-boxing.jpg">
+     <figcaption> Catch me in the corner. </figcaption>
 </figure>
 
 --- 
 
 <center> <h2> Miscellaneous </h2> </center>
 
-### People who've influenced me the most
+### Inspirational Figures
 1. Susan Cain <!-- - accept identity -->
 1. Cal Newport 
 1. David Goggins <!-- - for being a mentally tough badass -->

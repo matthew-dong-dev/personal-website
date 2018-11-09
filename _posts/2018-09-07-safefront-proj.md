@@ -2,11 +2,10 @@
 layout: post
 title:  "SafeFront"
 date:   2018-09-07
-excerpt: "A next generation 911 service for emergency responders and relief agencies."
+excerpt: "A next generation 911 service for emergency responders and relief agencies. Top 30 finish out of 200 teams at PennApps XVIII."
 project: true
 reading_time: false
 permalink: safefront
 ---
 
 ## [Check it out here](https://devpost.com/software/safefront)
-

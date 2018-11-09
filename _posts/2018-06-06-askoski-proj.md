@@ -14,11 +14,10 @@ permalink: askoski
 
 ## Background
 
-- Web infrastructure in most schools has remained static in an increasingly technological society; in particular, variety in course enrollment platforms remains lacking in higher education. To provide greater personalized course guidance to individual students, _AskOski_ is a state-of-the-art recommender system that lifts machine learning methodologies from other domains to the education field to help improve learning outcomes.  Through historic enrollment data, _AskOski_ suggests courses to users based on similar sequences past students have taken. [Brochure]({{site.url}}/assets/files/askoski_brochure.pdf). 
-- The current system is available to the entire undergraduate population at UC Berkeley, with active collaboration to expand to UC Irvine and Laney College.  
+- Web infrastructure in most schools has remained static in an increasingly technological society.  In particular, variety in course enrollment platforms remains lacking in higher education. To provide greater personalized course guidance to individual students, _AskOski_ is a state-of-the-art recommender system that lifts machine learning methodologies from other domains to the education field to help improve learning outcomes.  Through historic enrollment data, _AskOski_ suggests courses to users based on similar sequences past students have taken. [Brochure]({{site.url}}/assets/files/askoski_brochure.pdf). 
 
 ### My Involvement 
 
 - My role includes incorporating an "intelligent search" function in addition to the main features of the site to enhance content discovery and the browsing experience. **Check out a beta version [here](https://askoski.berkeley.edu:1380/search).**
-- What makes this search “intelligent” is that a query will not only be matched against course titles and descriptions, but also to an additional search metric known as “inferred keywords.” Inferred keywords are a generalized description produced through machine learning that captures a semantic portrayal of courses beyond university catalog descriptions. More details [here]({{site.url}}/assets/files/research-poster-final.pdf). 
-- Code [here](https://github.com/CAHLR/search-keywords/).
+- What makes this search “intelligent” is that a query will not only be matched against course titles and descriptions, but also to an additional search metric known as “inferred keywords.” Inferred keywords are a generalized description produced through machine learning that captures a semantic portrayal of courses beyond university catalog descriptions. 
+<!-- More details [here]({{site.url}}/assets/files/research-poster-final.pdf). --> 
