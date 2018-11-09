@@ -6,7 +6,7 @@ comments: false
 feature: assets/img/norway.jpg
 ---
     
-<center>  I’m a student who enjoys creating, writing, and exploring.  I believe in balance & simplicity, prefer to be outdoors, and would like to own a Bernese Mountain Dog.  In the future, I'm interested in the intersection of education reform, data science, and sustainability.  </center>
+<center>  I’m a student who enjoys creating, writing, and exploring outdoors.  I believe in simplicity, love Calvin and Hobbes, and would like to own a Bernese Mountain Dog.  In the future, I'm interested in the intersection of education reform, data science, and sustainability.  </center>
 
 ---
 
