@@ -16,8 +16,8 @@ You can find my resume [here]({{site.url}}/assets/files/matthew-dong-resume.pdf)
 
 ### Research
 * Computational Approaches to Human Learning Research Lab [(CAHLR)](https://github.com/CAHLR):
-	- Working under the supervision of Zachary Pardos  
-	- Goals of the lab include leveraging AI and big data in the education field by lifting machine learning methodologies from other domains to help improve learning outcomes
+	- Working under the supervision of Zachary Pardos. 
+	- Goals of the lab include leveraging AI and big data in education to help improve learning outcomes.
 	- My work on [representation learning in course discovery]({{site.url}}/assets/files/research-poster-final.pdf).
 
 
@@ -41,8 +41,9 @@ research project under the guidance of a faculty mentor. Presented completed wor
 	- Funded tuition for the entirety of the 2017-18 school year. -->
 
 ### Personal Endeavors
-* I train with Cal Boxing 
-* For the past 2 years I've helped facilitate the Happiness Advantage DeCal, which is a student run course based on Shawn Achor's novel [_The Happiness Advantage_](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549). Our goal is to help others to achieve greater levels of personal contentment through scientifically grounded yet unconventional approaches to life.  
+* I train with Cal Boxing
+* For the past 2 years I've helped facilitate the Happiness Advantage DeCal, which is a student run course based on Shawn Achor's novel [_The Happiness Advantage_](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549). 
+<!-- Our goal is to help others to achieve greater levels of personal contentment through scientifically grounded yet unconventional approaches to life.   -->
 	<!-- ADD LINK TO SYLLABUS OR WEBSITE IN FUTURE  -->
 
 

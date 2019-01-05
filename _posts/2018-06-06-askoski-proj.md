@@ -14,10 +14,10 @@ permalink: askoski
 
 ## Background
 
-- Web infrastructure in most schools has remained static in an increasingly technological society.  In particular, variety in course enrollment platforms remains lacking in higher education. To provide greater personalized course guidance to individual students, _AskOski_ is a state-of-the-art recommender system that lifts machine learning methodologies from other domains to the education field to help improve learning outcomes.  Through historic enrollment data, _AskOski_ suggests courses to users based on similar sequences past students have taken. [Brochure]({{site.url}}/assets/files/askoski_brochure.pdf). 
+- Web infrastructures in schools have remained static in an increasingly technological society - in particular, course enrollment platforms remain a Web 1.0 experience for many higher education institutions. In order to provide a more streamlined user experience and greater personalized course guidance, _AskOski_ is a state-of-the-art course recommender system that lifts machine learning methodologies from other domains throughout its features.  Using historic UC Berkeley enrollment data, _AskOski_ provides class suggestions to each user based on similar student enrollment patterns. [Additional Background]({{site.url}}/assets/files/askoski_brochure.pdf). 
 
 ### My Involvement 
 
-- My role includes incorporating an "intelligent search" function in addition to the main features of the site to enhance content discovery and the browsing experience. **Check out a beta version [here](https://askoski.berkeley.edu:1380/search).**
-- What makes this search “intelligent” is that a query will not only be matched against course titles and descriptions, but also to an additional search metric known as “inferred keywords.” Inferred keywords are a generalized description produced through machine learning that captures a semantic portrayal of courses beyond university catalog descriptions. 
+- My role includes incorporating an intelligent course catalog into the system to improve its versatility and to augment the course discovery process. **Check out a beta version [here](https://askoski.berkeley.edu:1380/search).**
+- What makes this course catalog “intelligent” is that a search query will not only be matched against course titles and descriptions, but also to additional “inferred keywords” for each course.  The inferred keywords are a machine learning model’s prediction as to what a class is about based on its true description and its mathematical representation, intending to capture a semantic portrayal of courses beyond university catalog descriptions that incorporate student behavioral information. 
 <!-- More details [here]({{site.url}}/assets/files/research-poster-final.pdf). --> 
