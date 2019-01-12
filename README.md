@@ -1,70 +1,66 @@
-> https://mdong127.github.io/
+<p align="center">
+    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="http://sergiokopplin.github.io/indigo/">Demo</a> · <a href="https://travis-ci.org/sergiokopplin/indigo"><img src="https://camo.githubusercontent.com/5393485b732749b3499264168fa8af60166071e8/68747470733a2f2f7472617669732d63692e6f72672f73657267696f6b6f70706c696e2f696e6469676f2e7376673f6272616e63683d67682d7061676573" alt="Build Status" data-canonical-src="https://travis-ci.org/sergiokopplin/indigo.svg?branch=gh-pages" style="max-width:100%;"></a></h2>
+</p>
 
-1. **Change config url** before pushing / development
-	Potential Work-arounds: 
-	- https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development
-	- https://jekyllrb.com/docs/variables/
-1. Run `bundle exec jekyll serve` for dev environment
+<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
 
-## To do (Tier 1): 
-1. transfer other posts; how to add drafts? 
-	- Drafts are posts without a date in the filename.  How to exec build with draft? 
-	- add hyperlinks in *why education* & embed videos (look through md syntax post)
-1. change email to redirect to generic one
-1. create a dev branch for new web template
+***
 
-## Content
-1. less is more, pare down the excess words in everything e.g. in your about me section + askoski description is too long, remove rose hills scholarship portion
-1. include Laney course search in askoski file 
-	- built a course catalog for Laney college which is a proof of concept that this is scalable and improves their class bc previously was a pdf (scale education infrastructure)
-1. add temporary placeholder project for HA website + include temporary practical applications file
-1. link other BTNs within each post
-1. add linkedIn profile + add devpost configuration to home page shortcuts (maybe not necessary for new template)
+<p align="center">
+    <b><a href="README.md#what-has-inside">What has inside</a></b>
+    |
+    <b><a href="README.md#setup">Setup</a></b>
+    |
+    <b><a href="README.md#settings">Settings</a></b>
+    |
+    <b><a href="README.md#how-to">How to</a></b>
+</p>
 
-### To do (Tier 2): 
-1. enable https - SSL certificate
-1. fix disqus & fix back button to use font icon
-1. How to use analytics code? http://jmcglone.com/guides/github-pages/ Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example._
-	- https://taylantatli.github.io/Moon/moon-theme/
-1. Configuring Travis CI on your repo is a great way to track failing builds as well - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
-1. regex for all png and jpg files?  `\.(png|jpg)`
-1. look into dev settings: https://jekyllrb.com/docs/usage/ 
-1. add option to search by tags (see template version)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
+</p>
 
-## Completed: 
-1. [x] sync to custom domain: https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c
-1. [x] customize background (picture or color) & logo (prof pic) & favicon
-1. [x] insert markdownify into liquid templating for post list & projects layouts
-1. [x] fix permalink issue with extra backslash 
-1. [x] insert a basic _by the numbers post_ w/ images, YAML header, etc... 
-1. [x] redirect post home button to proper `site.url`
-1. [x] choose & change theme & link template to your github pages page 
+## What has inside
 
-## Content
-1. [x] replace cal boxing picture & Change productivity blog to biometric  
-1. [x] update aboutMe to be in parity with resume
-	- change CAHL description to be AI in education
-	- Update website to say “recommended reading”
-	- link to projects section
-	- move cal hacks response to BTNs description 
-1. [x] include safeFront project
+- [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
+- Tests with [Travis](https://travis-ci.org/)
+- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
+- No JS. :sunglasses:
 
+## Setup
 
---- 
+0. :star: to the project. :metal:
+2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
+3. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
+4. Write some posts :bowtie:
 
-### Useful commands 
+If you want to test locally on your machine, do the following steps also:
 
-Jekyll:
-- `bundle exec jekyll serve` for local version 
-	- vs `jekyll serve --livereload`? 
-	- Note that _config.yml changes are loaded at compile time, not runtime. This means that if you’re running jekyll serve locally and you edit _config.yml, then changes to it won’t be detected. You’ll need to kill and rerun jekyll serve.
-- pushing changes will automatically update live website (takes a few seconds)
-- `jekyll build` ? 
-	jekyll build will wipe everything in /_sites/. The first step of jekyll build is to delete everything in /_sites/ and then build it all again from scratch. So, you can’t store any files in there and expect them to stick around. Everything that goes into /_sites/ should be generated by Jekyll_
+1. Install [Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
+2. Clone the forked repo on your machine
+3. Enter the cloned folder via terminal and run `bundle install`
+4. Then run `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
+5. Open it in your browser: `http://localhost:4000`
+6. Test your app with `bundle exec htmlproofer ./_site`
+7. Do you want to use the [jekyll-admin](https://jekyll.github.io/jekyll-admin/) plugin to edit your posts? Go to the admin panel: `http://localhost:4000/admin`. The admin panel will not work on GitHub Pages, [only locally](https://github.com/jekyll/jekyll-admin/issues/341#issuecomment-292739469).
 
-Git:
+## Settings
 
-- `git remote set-url origin git://new.url.here`
-- `git pull origin branchname --allow-unrelated-histories`
+You must fill some informations on `_config.yml` to customize your site.
 
+```
+name: John Doe
+bio: 'A Man who travels the world eating noodles'
+picture: 'assets/images/profile.jpg'
+...
 
+and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
+```
+
+## How To?
+
+Check the [FAQ](./FAQ.md) if you have any doubt or problem.
+
+---
+
+[MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
