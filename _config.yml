@@ -21,6 +21,15 @@ url: https://mdong127.github.io
 
 permalink: /:title/
 
+markdown:           kramdown
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
 

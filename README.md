@@ -5,7 +5,6 @@
 	
 ### Content
 1. conduct basic regression test - make sure all links work
-1. clean unused files & images from assets
 1. add tags to posts / add emojis to post titles
 1. add dates to experience
 1. include Laney course search in askoski file 
@@ -27,6 +26,7 @@
 1. add option to search by tags (see template version)
 
 ### Completed Content Tasks
+
 1. [x] less is more, pare down the excess words in everything e.g. in your about me section + askoski description is too long, remove rose hills scholarship portion
 1. [x] replace cal boxing picture & Change productivity blog to biometric  
 1. [x] update aboutMe to be in parity with resume
@@ -42,6 +42,7 @@
 1. [x] get rid of "welcome to my website" displaying on every page
 1. [x] how to get projects layout to show description
 1. [x] create a dev branch for new web template
+1. [x] clean unused files & images from assets
 1. [x] **Change config url** before pushing / development
 	Potential Work-arounds: 
 	- https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development
