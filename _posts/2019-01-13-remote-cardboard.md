@@ -10,5 +10,9 @@ hidden: true # don't count this post in blog pagination
 
 ---
 
-## [Check it out here](https://devpost.com/software/remote-cardboard)
+<p style="text-align: center;">
+<a href='https://devpost.com/software/remote-cardboard'> Check it out here
+</a>
+</p>
+
 

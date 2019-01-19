@@ -1,13 +1,12 @@
 ---
-layout: post
 title:  "Why Education?"
+layout: post
 date:   2017-01-16
-excerpt: "\"Education is the most powerful weapon which you can use to change the world.\" - Nelson Mandela"
+description: "\"Education is the most powerful weapon which you can use to change the world.\" - Nelson Mandela"
+category: blog
+image: /assets/images/featured_images/bridge.jpg
+headerImage: true
 
-comments: true
-feature: assets/img/featured_images/bridge.jpg
-reading_time: true
-tag: [personal-writing, education, reform]
 ---
 
 ### Here are 5 reasons why education reform matters and why it's the path I'm interested in pursuing: 

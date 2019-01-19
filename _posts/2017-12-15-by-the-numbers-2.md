@@ -5,11 +5,8 @@ date: 2017-12-15
 description: "More data, more fun."
 category: blog
 tag: [biometric, data-analysis]
-image: /assets/images/featured_images/btn2_ft.jpg
-headerImage: true
 
 ---
-
 
 Welcome to **By The Numbers 2**!
 

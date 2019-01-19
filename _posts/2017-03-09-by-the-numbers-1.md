@@ -5,8 +5,6 @@ date:   2017-08-07
 description: "<i>\"You can't control what you can't measure.\"</i> - Me (but not really)"  
 author: Matthew Dong
 category: blog
-image: /assets/images/markdown.jpg
-headerImage: true
 star: false
 tag: [biometric-data, statistical-analyses]
 

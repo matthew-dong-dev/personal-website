@@ -10,5 +10,8 @@ hidden: true # don't count this post in blog pagination
 
 ---
 
-## [Check it out here](https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/0365bae/submission/)
+<p style="text-align: center;">
+<a href='https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/0365bae/submission/'> Check it out here
+</a>
+</p>
 
