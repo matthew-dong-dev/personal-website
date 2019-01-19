@@ -9,7 +9,9 @@ layout: page
 <h1 class="title">{{ page.title }}</h1>
 
 <span class="date">
-    <!-- <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time> -->
+    {% if page.category == "blog" %}
+        <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }} </time>
+    {% endif %}
     {% if site.read-time %} - {% include read-time.html %}{% endif %}
 </span>
 
@@ -36,6 +38,7 @@ layout: page
     </div>
 {% endif %}
 
+
 {% if site.related %}
     {% include related.html %}
 {% endif %}
@@ -47,3 +50,4 @@ layout: page
 {% if site.disqus.categories contains page.category %}
     {% include disqus.html %}
 {% endif %}
+
