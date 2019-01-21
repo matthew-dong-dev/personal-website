@@ -71,6 +71,10 @@ Here are my favorite books, movies, shows.
 	- _Cosmos: A Personal Voyage_ 
 
 
+<p class="extra">
+	Website template credit: 
+    <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a> by <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a>
+</p>
 <!-- ### Inspirational Figures
 1. Susan Cain 
 1. Cal Newport 
