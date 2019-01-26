@@ -5,7 +5,7 @@ layout: page
 
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
    
-<center>  Hi there!  My name is Matthew and I’m a student interested in the intersection of education reform, data science, and sustainability.  </center>
+<center>  Hi there!  My name is Matthew and I’m a student interested in the intersection of education, data science, and sustainability.  </center>
 
 ---
 
