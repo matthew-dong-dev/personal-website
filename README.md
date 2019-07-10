@@ -28,8 +28,10 @@
 
 ### Completed Content Tasks
 
-1. [ ] change prof picture
+1. [ ] link research code (github repo) & change BTN report to reference code code
+1. [x] change prof picture
 1. [x] update website to be in parity with resume, change section titles to match
+1. [x] add link to paper: list short paper & poster, then full paper - see Zach’s website as a model, add askoski brochure to website 
 1. [x] Move “performed general system testing and debugging” to Sabre Internship
 1. [x] remove “credit” from website template, remove "Presented work on learning analytics applications at a university research conference”, Replace exploring outdoors with traveling,  I'm a huge fan of Calvin and Hobbes, would like to own a Bernese Mountain Dog and box in my free time.
 1. [x] less is more, pare down the excess words in everything e.g. in your about me section + askoski description is too long, remove rose hills scholarship portion

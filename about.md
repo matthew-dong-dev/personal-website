@@ -4,6 +4,8 @@ layout: page
 ---
 
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
+
+<img src="/assets/images/headshot.jpg" style='height="10" width="10"'>
    
 <center>  Hi there!  My name is Matthew and I’m a student interested in leveraging technological advances   towards sustainability.  </center>
 
@@ -27,14 +29,17 @@ Experience
 - Augmented site functionality by designing and integrating an [enhanced search feature](https://askoski.berkeley.edu/search) into the site
 - Berkeley, CA (April 2018 - Present)
 
-**Software Developer: Sabre Corporation**
+**Software Engineering Intern: Sabre Corporation**
 
-- General system testing and debugging
+- Worked on the developer portal site, used to access backend APIs from operational units across the coompany
+- Provided general feature development and test coverage in alignment with stakeholder specifications
 - Southlake, TX (May 2019 - Aug 2019)
 
 **Undergraduate Student Instructor: [Stat 89A Linear Algebra for Data Science]({{site.url}}/assets/files/stat89a_syllabus.pdf)**
 
-- Responsibilities include maintaining course infrastructure & working with Michael Mahoney to prototype and refine course materials for the pilot 4-unit offering of the course. 
+- Worked with Michael Mahoney and course staff to scale course infrastructure and prototype course materials for the pilot 4-unit offering of the course. 
+- Guided and mentored students during office hours and discussion sections.
+- Berkeley, CA (Nov 2017 - Feb 2019)
 	
 <!-- * [Projects]({{site.url}}/projects)	 -->
 <!-- * DataKind -->
@@ -45,7 +50,7 @@ Awards and Publications
 
 **Conference Proceedings**
 
-- <u>Dong, M</u>., Yu, R., Pardos, Z.A. Design and Deployment of a Better University Course Search: Inferring Latent Keywords from Enrollments. In C. Lync and A. Merceron (Eds.) Proceedings of the 12th International Conference on Educational Data Mining (EDM). Montreal, Canada.  [pdf]({{site.url}}/assets/files/EDM-paper.pdf)
+- <u>Dong, M</u>., Yu, R., Pardos, Z.A. Design and Deployment of a Better University Course Search: Inferring Latent Keywords from Enrollments. In C. Lync and A. Merceron (Eds.) Proceedings of the 12th International Conference on Educational Data Mining (EDM). Montreal, Canada. [PDF]({{site.url}}/assets/files/EDM-paper.pdf)
 
 **Undergraduate Research Fellow**
 
