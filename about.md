@@ -5,13 +5,13 @@ layout: page
 
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-<img src="/assets/images/headshot.jpg" style='height="10" width="10"'>
+<img src="/assets/images/about-pic.jpg" style='height="10" width="10"'>
    
 <center>  Hi there!  My name is Matthew and I’m a student interested in leveraging technological advances   towards sustainability.  </center>
 
 ---
 
-<center> <h2> Primary Info </h2> </center>
+<center> <h2> Recruiter Info </h2> </center>
 
 You can find my resume <a href='https://drive.google.com/file/d/1W_wS_XiCO7pd7t50DQrjujP90izDTwrD/view?usp=sharing'>here</a> and reach me at: _mdong@berkeley.edu_. 
 
@@ -58,7 +58,7 @@ Awards and Publications
 
 --- 
 
-<center> <h2> Miscellaneous </h2> </center>
+<center> <h2> About Me </h2> </center>
 
 I enjoy traveling, am a huge fan of Calvin and Hobbes, and would like to own a Bernese Mountain Dog.  I box in my free time and am a proponent of simplicity.  
 
