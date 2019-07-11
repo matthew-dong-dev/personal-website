@@ -5,31 +5,28 @@
 ## To do: 
 	
 ### Content
-1. conduct basic regression test - make sure all links work
-1. add tags to posts / add emojis to post titles
-1. add dates to experience
-1. include Laney course search in askoski file 
-	- built a course catalog for Laney college which is a proof of concept that this is scalable and improves their class bc previously was a pdf (scale education infrastructure)
-1. add temporary placeholder project for HA website + include temporary practical applications file
+
+1. link research code (github repo) & change BTN report to reference code code
 1. link other BTNs within each post (add as related posts YAML header)
 1. add hyperlinks in *why education* & embed videos (look through md syntax post)
+1. change email to redirect from generic one
 
-### Static Website Build: 
+### Build tasks: 
+
+1. check DNS changes propogated: "Your DNS changes can take over a full day to update and the wait varies among DNS providers." 
+	- `dig +noall +answer matthewydong.com`
 1. enable google analytics
 	- How to use analytics code? http://jmcglone.com/guides/github-pages/ Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example._
 	- https://taylantatli.github.io/Moon/moon-theme/
-1. change email to redirect to generic one
-1. add linkedIn profile + add devpost configuration to home page shortcuts 
-1. enable https - SSL certificate
 1. Configuring Travis CI on your repo is a great way to track failing builds as well - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
+	- automate basic regression test - make sure all links work
 1. regex for all png and jpg files?  `\.(png|jpg)`
 1. look into dev settings: https://jekyllrb.com/docs/usage/ 
-1. add option to search by tags (see template version)
+1. add tags to posts & add option to search by tags (see template version)
 
 ### Completed Content Tasks
 
-1. [ ] link research code (github repo) & change BTN report to reference code code
-1. [x] change prof picture
+1. [x] change prof picture, add dates to experience
 1. [x] update website to be in parity with resume, change section titles to match
 1. [x] add link to paper: list short paper & poster, then full paper - see Zach’s website as a model, add askoski brochure to website 
 1. [x] Move “performed general system testing and debugging” to Sabre Internship
@@ -44,6 +41,8 @@
 1. [x] include safeFront project
 
 ### Completed Build Tasks
+
+1. [x] enable https - SSL certificate
 1. [x] transfer other posts; how to add drafts? 
 	- Drafts are posts without a date in the filename.  How to exec build with draft? 
 1. [x] get rid of "welcome to my website" displaying on every page
@@ -62,9 +61,21 @@
 1. [x] redirect post home button to proper `site.url`
 1. [x] choose & change theme & link template to your github pages page 
 
+
+### Deprecated 
+
+1. [ ] include Laney course search in askoski file 
+	- built a course catalog for Laney college which is a proof of concept that this is scalable and improves their class bc previously was a pdf (scale education infrastructure)
+1. [ ] add temporary placeholder project for HA website + include temporary practical applications file
+1. [ ] add linkedIn profile + add devpost configuration to home page shortcuts 
+1. [ ] add emojis to post titles 
+
 --- 
 
-### Useful commands 
+### Useful commands & resources 
+
+- https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58
+- 
 
 Jekyll:
 - `bundle exec jekyll serve` for local version 

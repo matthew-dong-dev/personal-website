@@ -18,26 +18,26 @@ You can find my resume <a href='https://drive.google.com/file/d/1W_wS_XiCO7pd7t5
 Education
 ---------
 
-**B.A., Data Science**; University of California, Berkeley
+**B.A., Data Science**; University of California, Berkeley (Exp. Grad 2021)
 
 Experience 
 ----------
 
-**Research Assistant & Developer: [CAHLR Lab](https://github.com/CAHLR)**
+**Research Assistant & Developer - [CAHLR Lab](https://github.com/CAHLR)**
 
 - Worked under the supervision of Zachary Pardos and collaborated with research and development teams building a course recommender system at UC Berkeley [(AskOski)]({% post_url 2018-06-06-askoski %})
-- Augmented site functionality by designing and integrating an [enhanced search feature](https://askoski.berkeley.edu/search) into the site
+- Augmented site functionality by designing and integrating the site's "enhanced" search feature
 - Berkeley, CA (April 2018 - Present)
 
-**Software Engineering Intern: Sabre Corporation**
+**Software Engineering Intern - Sabre Corporation**
 
 - Worked on the developer portal site, used to access backend APIs from operational units across the coompany
 - Provided general feature development and test coverage in alignment with stakeholder specifications
 - Southlake, TX (May 2019 - Aug 2019)
 
-**Undergraduate Student Instructor: [Stat 89A Linear Algebra for Data Science]({{site.url}}/assets/files/stat89a_syllabus.pdf)**
+**Undergraduate Student Instructor - [Stat 89A: Linear Algebra for Data Science]({{site.url}}/assets/files/stat89a_syllabus.pdf)**
 
-- Worked with Michael Mahoney and course staff to scale course infrastructure and prototype course materials for the pilot 4-unit offering of the course. 
+- Worked with Michael Mahoney and course staff to scale course infrastructure and prototype materials for the pilot 4-unit offering of the class. 
 - Guided and mentored students during office hours and discussion sections.
 - Berkeley, CA (Nov 2017 - Feb 2019)
 	
@@ -54,7 +54,7 @@ Awards and Publications
 
 **Undergraduate Research Fellow**
 
-- Received a $6,000 grant to conduct a self-directed research project under the guidance of a faculty mentor. 
+- Applied and received a $6,000 university grant to conduct a self-directed research project under the guidance of a faculty mentor. 
 
 --- 
 
@@ -62,16 +62,15 @@ Awards and Publications
 
 I enjoy traveling, am a huge fan of Calvin and Hobbes, and would like to own a Bernese Mountain Dog.  I box in my free time and am a proponent of simplicity.  
 
-<img src="/assets/images/cal-boxing.jpg" class='bigger-image' style='position: relative;
-  	right: 15px;'>
+<img src="/assets/images/cal-boxing.jpg" class='bigger-image'>
 
-- Favorite Books: 
+- Favorite Books
 	- _Quiet_ by Susan Cain  
 	- _Humans of New York: Stories_ by Brandon Stanton
 
 - Favorite Movies / Plays
 	- _3 Idiots_ 
-	- _The Lego Movie_ 
+	- _Free Solo_ 
 	- _Death of a Salesman_ by Arthur Miller
 
 - Favorite Shows
@@ -89,11 +88,3 @@ I enjoy traveling, am a huge fan of Calvin and Hobbes, and would like to own a B
 1. Cal Newport 
 1. David Goggins 
 1. David Attenborough  -->
-
-<!-- <center> <h3> Favorite Readings </h3> </center>
-
-| Books 										|  Other
-|--------										|------- 
-| _Quiet_ by Susan Cain   						| _Death of a Salesman_ by Arthur Miller
-|  _Man's Search for Meaning_ by Viktor Frankl 	|  _Humans of New York: Stories_ by Brandon Stanton   | -->
-
