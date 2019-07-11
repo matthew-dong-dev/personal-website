@@ -1,4 +1,4 @@
-> matthewydong.com
+> http://matthewydong.com
 
 > Run `bundle exec jekyll serve --config _config.yml,_config-dev.yml` for dev environment
 
@@ -23,7 +23,6 @@
 1. regex for all png and jpg files?  `\.(png|jpg)`
 1. look into dev settings: https://jekyllrb.com/docs/usage/ 
 1. add tags to posts & add option to search by tags (see template version)
-1. replace mathjax dependency: https://www.mathjax.org/cdn-shutting-down/ 
 
 ### Completed Content Tasks
 
@@ -76,8 +75,7 @@
 ### Useful commands & resources 
 
 - https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58
-- https://medium.com/employbl/launch-a-website-with-a-custom-url-using-github-pages-and-google-domains-3dd8d90cc33b 
-- https://serverfault.com/a/887218
+- 
 
 Jekyll:
 - `bundle exec jekyll serve` for local version 
