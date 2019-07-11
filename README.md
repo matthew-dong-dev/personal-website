@@ -89,6 +89,7 @@ Git:
 
 - `git remote set-url origin git://new.url.here`
 - `git pull origin branchname --allow-unrelated-histories`
+- `git reset` only changes local repo, cannot push changes if you reset to a specific commit, need to use `git revert` (https://stackoverflow.com/a/22683231/6521206)
 
 
 

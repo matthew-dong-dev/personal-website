@@ -31,8 +31,8 @@ Experience
 
 **Software Engineering Intern - Sabre Corporation**
 
-- Worked on the developer portal site, used to access backend APIs from operational units across the coompany
-- Provided general feature development and test coverage in alignment with stakeholder specifications
+- Worked on the developer portal site, used to access backend APIs from operational units across the company
+- Provided general feature development and test coverage in alignment with stakeholder specifications, participated in agile workflow environment
 - Southlake, TX (May 2019 - Aug 2019)
 
 **Undergraduate Student Instructor - [Stat 89A: Linear Algebra for Data Science]({{site.url}}/assets/files/stat89a_syllabus.pdf)**
