@@ -7,7 +7,7 @@ layout: page
 
 <img src="/assets/images/about-pic.jpg" style='height="10" width="10"'>
    
-<center>  Hi there!  My name is Matthew and I’m a student interested in leveraging technological advances   towards sustainability.  </center>
+<center>  Hi there!  My name is Matthew and I’m a student interested in leveraging technological advances towards sustainability.  </center>
 
 ---
 
@@ -25,14 +25,14 @@ Experience
 
 **Research Assistant & Developer - [CAHLR Lab](https://github.com/CAHLR)**
 
-- Worked under the supervision of Zachary Pardos and collaborated with research and development teams building a course recommender system at UC Berkeley [(AskOski)]({% post_url 2018-06-06-askoski %})
-- Augmented site functionality by designing and integrating the site's "enhanced" search feature
+- Worked under the supervision of Zachary Pardos and collaborated with research and development teams building a course recommender system at UC Berkeley [(AskOski)]({% post_url 2018-06-06-askoski %}).
+- Augmented site functionality by designing and integrating the site's "enhanced" search feature.
 - Berkeley, CA (April 2018 - Present)
 
 **Software Engineering Intern - Sabre Corporation**
 
-- Worked on the developer portal site, used to access backend APIs from operational units across the company
-- Provided general feature development and test coverage in alignment with stakeholder specifications, participated in agile workflow environment
+- Worked on Sabre's [developer portal site](https://beta.developer.sabre.com), used to access published APIs from operational units across the company.
+- Designed and shipped stakeholder requested features along with corresponding test coverage to enhance the content management system's functionality.
 - Southlake, TX (May 2019 - Aug 2019)
 
 **Undergraduate Student Instructor - [Stat 89A: Linear Algebra for Data Science]({{site.url}}/assets/files/stat89a_syllabus.pdf)**
@@ -50,7 +50,7 @@ Awards and Publications
 
 **Conference Proceedings**
 
-- <u>Dong, M</u>., Yu, R., Pardos, Z.A. Design and Deployment of a Better University Course Search: Inferring Latent Keywords from Enrollments. In C. Lync and A. Merceron (Eds.) Proceedings of the 12th International Conference on Educational Data Mining (EDM). Montreal, Canada. [PDF]({{site.url}}/assets/files/EDM-paper.pdf)
+- <u>Dong, M</u>., Yu, R., Pardos, Z.A. Design and Deployment of a Better University Course Search: Inferring Latent Keywords from Enrollments. In C. Lync and A. Merceron (Eds.) Proceedings of the 12th International Conference on Educational Data Mining (EDM). Montreal, Canada. [Short paper PDF]({{site.url}}/assets/files/EDM-paper.pdf), [Full paper PDF]({{site.url}}/assets/files/EC-TEL-paper.pdf)
 
 **Undergraduate Research Fellow**
 
@@ -60,18 +60,19 @@ Awards and Publications
 
 <center> <h2> About Me </h2> </center>
 
-I enjoy traveling, am a huge fan of Calvin and Hobbes, and would like to own a Bernese Mountain Dog.  I box in my free time and am a proponent of simplicity.  
+I enjoy traveling, am a huge fan of Calvin and Hobbes, and would like to own a Bernese Mountain Dog.  I train with Cal Boxing and am a proponent of simplicity in daily life.  
 
 <img src="/assets/images/cal-boxing.jpg" class='bigger-image'>
 
 - Favorite Books
-	- _Quiet_ by Susan Cain  
+	- _Quiet_ by Susan Cain 
+	- _Can't Hurt Me_ by David Goggins 
 	- _Humans of New York: Stories_ by Brandon Stanton
 
-- Favorite Movies / Plays
-	- _3 Idiots_ 
+- Favorite Movies
+	- _Fight Club_ 
 	- _Free Solo_ 
-	- _Death of a Salesman_ by Arthur Miller
+	- _3 Idiots_ 
 
 - Favorite Shows
 	- _Bojack Horseman_  

@@ -9,7 +9,7 @@ headerImage: true
 
 ---
 
-### Here are 5 reasons why education reform matters and why it's the path I'm interested in pursuing: 
+### Here are 5 reasons why I believe education reform is necessary.  
 
 1. It's time to start playing the infinite game.
 
