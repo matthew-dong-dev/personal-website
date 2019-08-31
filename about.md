@@ -13,7 +13,7 @@ layout: page
 
 <center> <h2> Recruiter Info </h2> </center>
 
-You can find my resume <a href='https://drive.google.com/file/d/1W_wS_XiCO7pd7t50DQrjujP90izDTwrD/view?usp=sharing'>here</a> and reach me at: _mdong@berkeley.edu_. 
+You can find my resume [here]({{site.url}}/assets/files/matthew-dong-resume.pdf) and reach me at: _mdong@berkeley.edu_. 
 
 Education
 ---------

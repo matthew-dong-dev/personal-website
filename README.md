@@ -10,7 +10,7 @@ Sometime you just need to clear the cache for changes to propogate
 1. enable google analytics
 	- How to use analytics code? http://jmcglone.com/guides/github-pages/ Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example._
 	- https://taylantatli.github.io/Moon/moon-theme/
-1. fix security vulnerability
+1. fix security vulnerability - `bundle update nokogiri`
 1. Configuring Travis CI on your repo is a great way to track failing builds as well - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
 	- automate basic regression test - make sure all links work
 1. regex for all png and jpg files?  `\.(png|jpg)`
