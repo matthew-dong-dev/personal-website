@@ -1,4 +1,6 @@
-> matthewydong.com
+<p>
+    <h2><a href="https://matthewydong.com ">Matthew Dong Personal Website</a> · <img src="https://travis-ci.org/mdong127/mdong127.github.io.svg?branch=master" alt="Build Status" style="max-width:100%;"></a></h2>
+</p>
 
 > Run `bundle exec jekyll serve --config _config.yml,_config-dev.yml` for dev environment
 
@@ -8,7 +10,6 @@ Sometime you just need to clear the cache for changes to propogate.  If you chan
 
 ### Build tasks: 
 
-1. Configure Travis CI on your repo to track failing builds - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
 1. Create dev branch and configure Travis to do deployment
 	- https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075
 	- https://docs.travis-ci.com/user/deployment/pages/
@@ -20,6 +21,7 @@ Sometime you just need to clear the cache for changes to propogate.  If you chan
 
 ### Completed Build Tasks
 
+1. [x] Configure Travis CI on your repo to track failing builds - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
 1. [x] enable google tag manager to track pdf views
 	- https://youtu.be/r87A-Ql2czg
 	- https://www.skylinetechnologies.com/Blog/Skyline-Blog/January_2017/How_to_track_PDF_downloads_using_Google_Tag_Manage
