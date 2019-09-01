@@ -2,18 +2,17 @@
 
 > Run `bundle exec jekyll serve --config _config.yml,_config-dev.yml` for dev environment
 
-Sometime you just need to clear the cache for changes to propogate
-If you change config file you need to rerun the command
+Sometime you just need to clear the cache for changes to propogate.  If you change config file you need to rerun the command.  
 
 ## To do: 
 
 ### Build tasks: 
-1. enable google analytics
-	- How to use analytics code? http://jmcglone.com/guides/github-pages/ Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an example._
-	- https://taylantatli.github.io/Moon/moon-theme/
-1. fix security vulnerability - `bundle update nokogiri`
-1. create permalink to resume file `/resume`
-1. Configuring Travis CI on your repo is a great way to track failing builds as well - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
+
+1. Configure Travis CI on your repo to track failing builds - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
+1. Create dev branch and configure Travis to do deployment
+	- https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075
+	- https://docs.travis-ci.com/user/deployment/pages/
+1. Write tests to be run on build
 	- automate basic regression test - make sure all links work
 1. regex for all png and jpg files?  `\.(png|jpg)`
 1. look into dev settings: https://jekyllrb.com/docs/usage/ 
@@ -21,6 +20,13 @@ If you change config file you need to rerun the command
 
 ### Completed Build Tasks
 
+1. [x] enable google tag manager to track pdf views
+	- https://youtu.be/r87A-Ql2czg
+	- https://www.skylinetechnologies.com/Blog/Skyline-Blog/January_2017/How_to_track_PDF_downloads_using_Google_Tag_Manage
+1. [x] enable google analytics
+	- How to use analytics code? http://jmcglone.com/guides/github-pages/ Try creating an _include file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. 
+1. [x] create url alias at `/resume` to resume file 
+1. [x] fix security vulnerability - `bundle update nokogiri`
 1. [x] disable browser cache in dev tools
 1. [x] check DNS changes propogated: "Your DNS changes can take over a full day to update and the wait varies among DNS providers." 
 	- `dig +noall +answer matthewydong.com`

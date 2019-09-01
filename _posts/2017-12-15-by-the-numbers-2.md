@@ -116,9 +116,9 @@ The last resort was to use `Calories` to predict time spent on math, which seem
 *Linear Regression Model* 
 
 <figure class="third">
-    <img src="/assets/images/2_btn_images/linear_model_residuals.png">
-    <img src="/assets/images/2_btn_images/qqplot.png">
-    <img src="/assets/images/2_btn_images/leverage-plot.png">
+    <img src="/assets/images/2_btn_images/linear_model_residuals.png" alt="">
+    <img src="/assets/images/2_btn_images/qqplot.png" alt="">
+    <img src="/assets/images/2_btn_images/leverage-plot.png" alt="">
     <figcaption class='caption'>Regression Diagnostics</figcaption>
 </figure>
 
@@ -146,8 +146,8 @@ With a completed dataset, it was now possible to run principal component reducti
 In the scree plot we can see the first 2 principal components (PCs) capture $$>50\%$$ of the variance, and we can extract the feature weights of these top two PCs.  
 
 <figure class="half">
-    <img src="/assets/images/2_btn_images/scree_plot.png">
-    <img src="/assets/images/2_btn_images/pcs.png">
+    <img src="/assets/images/2_btn_images/scree_plot.png" alt="">
+    <img src="/assets/images/2_btn_images/pcs.png" alt="">
     <figcaption class='caption'>Scree Plot and Principal Components</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ layout: page
 
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-<img src="/assets/images/about-pic.jpg" style='height="10" width="10"'>
+<img src="/assets/images/about-pic.jpg" alt="Matthew Dong Picture" style='height="10" width="10"'>
    
 <center>  Hi there!  My name is Matthew and I’m a student interested in leveraging technological advances towards sustainability.  </center>
 
@@ -62,7 +62,7 @@ Awards and Publications
 
 I enjoy traveling, am a huge fan of Calvin and Hobbes, and would like to own a Bernese Mountain Dog.  I train with Cal Boxing and am a proponent of simplicity in daily life.  
 
-<img src="/assets/images/cal-boxing.jpg" class='bigger-image'>
+<img src="/assets/images/cal-boxing.jpg" alt="Cal Boxing" class='bigger-image'>
 
 - Favorite Books
 	- _Quiet_ by Susan Cain 
