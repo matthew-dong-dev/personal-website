@@ -10,9 +10,12 @@ Sometime you just need to clear the cache for changes to propogate.  If you chan
 
 ### Build tasks: 
 
+1. optimize loading time of profile picture + fix picture attributes to be compatible for mobile viewing
 1. Create dev branch and configure Travis to do deployment
 	- https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075
 	- https://docs.travis-ci.com/user/deployment/pages/
+1. How to filter out bots from analytics data: https://medium.com/insights-metrics/spotting-bots-in-google-analytics-2cdd3ae3ed9b 
+1. change majority of MD links to anchor tags to allow opening in new tab
 1. Write tests to be run on build
 	- automate basic regression test - make sure all links work
 1. regex for all png and jpg files?  `\.(png|jpg)`

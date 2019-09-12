@@ -23,16 +23,16 @@ Education
 Experience 
 ----------
 
-**Research Assistant & Developer - [CAHLR Lab](https://github.com/CAHLR)**
+**Research Assistant & Developer - <a href="https://github.com/CAHLR" target="_blank">CAHLR Lab</a>**
 
-- Worked under the supervision of Zachary Pardos and collaborated with research and development teams building a course recommender system at UC Berkeley [(AskOski)]({% post_url 2018-06-06-askoski %}).
-- Augmented site functionality by designing and integrating the site's "enhanced" search feature.
+- Worked under the supervision of Zachary Pardos and collaborated with research and development teams building modern course information tools for UC Berkeley [(AskOski)]({% post_url 2018-06-06-askoski %}).
+- Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">course catalog / search feature</a>.
 - Berkeley, CA (April 2018 - Present)
 
 **Software Engineering Intern - Sabre Corporation**
 
-- Worked on Sabre's [developer portal site](https://beta.developer.sabre.com), used to access published APIs from operational units across the company.
-- Designed and shipped stakeholder requested features along with corresponding test coverage to enhance the content management system's functionality.
+- Worked on Sabre's <a href="https://beta.developer.sabre.com" target="_blank">developer portal site</a>, used to access published APIs from operational units across the company.
+- Engineered and shipped stakeholder requested features along with corresponding test coverage to enhance the content management system's functionality.
 - Southlake, TX (May 2019 - Aug 2019)
 
 **Undergraduate Student Instructor - [Stat 89A: Linear Algebra for Data Science]({{site.url}}/assets/files/stat89a_syllabus.pdf)**
@@ -81,7 +81,7 @@ I enjoy traveling, am a huge fan of Calvin and Hobbes, and would like to own a B
 
 <p class="extra">
 	Website template: 
-    <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a> by <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a>
+    <a class="link" href="https://github.com/sergiokopplin/indigo" target="_blank">Indigo theme</a> by <a class="link" href="https://github.com/sergiokopplin/indigo" target="_blank">Kopplin</a>
 </p>
 
 <!-- ### Inspirational Figures
