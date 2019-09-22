@@ -62,6 +62,7 @@ Sometime you just need to clear the cache for changes to propogate.  If you chan
 
 ### Completed Content Tasks
 
+1. [x] update resume, change CAHLR to CAHL, add springer link, move SafeFront above Remote Cardboard 
 1. [x] Change to recruiter info and about me and switch images 
 1. [x] change prof picture, add dates to experience
 1. [x] update website to be in parity with resume, change section titles to match

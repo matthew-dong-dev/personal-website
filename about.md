@@ -7,7 +7,7 @@ layout: page
 
 <img src="/assets/images/about-pic.jpg" alt="Matthew Dong Picture" style='height="10" width="10"'>
    
-<center>  Hi there!  My name is Matthew and I’m a student interested in leveraging technological advances towards sustainability.  </center>
+<center>  Hi there!  My name is Matthew and I’m a student interested in leveraging technological advances towards sustainability goals.  </center>
 
 ---
 
@@ -23,7 +23,7 @@ Education
 Experience 
 ----------
 
-**Research Assistant & Developer - <a href="https://github.com/CAHLR" target="_blank">CAHLR Lab</a>**
+**Research Assistant & Developer - <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a>**
 
 - Worked under the supervision of Zachary Pardos and collaborated with research and development teams building modern course information tools for UC Berkeley [(AskOski)]({% post_url 2018-06-06-askoski %}).
 - Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">course catalog / search feature</a>.
@@ -50,7 +50,9 @@ Awards and Publications
 
 **Conference Proceedings**
 
-- <u>Dong, M</u>., Yu, R., Pardos, Z.A. Design and Deployment of a Better University Course Search: Inferring Latent Keywords from Enrollments. In C. Lync and A. Merceron (Eds.) Proceedings of the 12th International Conference on Educational Data Mining (EDM). Montreal, Canada. [Short paper PDF]({{site.url}}/assets/files/EDM-paper.pdf), [Full paper PDF]({{site.url}}/assets/files/EC-TEL-paper.pdf)
+- <u>Dong, M</u>., Yu, R., Pardos, Z.A. Design and Deployment of a Better University Course Search: Inferring Latent Keywords from Enrollments. In C. Lync and A. Merceron (Eds.) Proceedings of the 12th International Conference on Educational Data Mining (EDM). Montreal, Canada. [Short paper PDF]({{site.url}}/assets/files/EDM-paper.pdf), [Full paper](https://link.springer.com/chapter/10.1007%2F978-3-030-29736-7_36), [Full paper PDF]({{site.url}}/assets/files/EC-TEL-paper.pdf)
+
+<!--   Dong, M., Yu, R., Pardos, Z.A. (2019) Design and Deployment of a Better Course Search Tool: Inferring latent keywords from enrollment networks. In M. Scheffel & J. Broisin (Eds.) Proceedings of the 14th European Conference on Technology Enhanced Learning (EC-TEL). Delft, The Netherlands. Springer. Pages 480-494. -->
 
 **Undergraduate Research Fellow**
 
