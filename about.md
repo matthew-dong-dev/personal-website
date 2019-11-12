@@ -23,11 +23,15 @@ Education
 Experience 
 ----------
 
-**Research Assistant & Developer - <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a>**
+**Research Assistant & Software Developer - CAHL Research Lab**
+ <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
-- Worked under the supervision of Zachary Pardos and collaborated with research and development teams building modern course information tools for UC Berkeley [(AskOski)]({% post_url 2018-06-06-askoski %}).
-- Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">course catalog / search feature</a>.
+- Worked under the supervision of Zachary Pardos and collaborated on machine learning research and software development teams building an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.
+- Monthly traffic to site includes ~10\% of undergraduate population of 30,000 students. 
+- Provided general full-stack feature development and testing, helped manage data retraining pipeline receiving periodic enrollment information updates from the campus registrar office.  
+- Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">course catalog / search feature</a>.  (More info [here]({% post_url 2018-06-06-askoski %}))
 - Berkeley, CA (April 2018 - Present)
+ <!-- Trained and optimized machine learning models, created back-end endpoints, designed and implemented the user interface.  -->
 
 **Software Engineering Intern - Sabre Corporation**
 
@@ -61,7 +65,9 @@ Awards and Publications
 
 <center> <h2> About Me </h2> </center>
 
-I enjoy traveling, am a huge fan of Calvin and Hobbes, and would like to own a Bernese Mountain Dog.  I train with Cal Boxing and am a proponent of simplicity in daily life.  
+I enjoy traveling, am a huge fan of Calvin and Hobbes, and train in amateur boxing in my free time. 
+
+<!-- I train with Cal Boxing in my free time. and am a proponent of simplicity in daily life.  and would like to own a Bernese Mountain Dog. -->
 
 <img src="/assets/images/cal-boxing.jpg" alt="Cal Boxing" class='bigger-image'>
 
@@ -81,7 +87,7 @@ I enjoy traveling, am a huge fan of Calvin and Hobbes, and would like to own a B
 	- _Cosmos: A Personal Voyage_ 
 
 <p class="extra">
-	Website template: 
+	Site template: 
     <a class="link" href="https://github.com/sergiokopplin/indigo" target="_blank">Indigo theme by Kopplin</a>
 </p>
 

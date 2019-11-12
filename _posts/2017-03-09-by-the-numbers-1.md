@@ -2,7 +2,7 @@
 title:  "By The Numbers 1"
 layout: post
 date:   2017-08-07
-description: "<i>\"You can't control what you can't measure.\"</i> - Me (but not really)"  
+description: "<i>\"You can't control what you can't measure.\"</i>"  
 author: Matthew Dong
 category: blog
 star: false

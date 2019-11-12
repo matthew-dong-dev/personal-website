@@ -2,7 +2,7 @@
 title: "By The Numbers 2"
 layout: post
 date: 2017-12-15
-description: "More data, more fun."
+# description: "More data, more fun."
 category: blog
 tag: [biometric, data-analysis]
 
