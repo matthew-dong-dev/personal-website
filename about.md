@@ -30,7 +30,7 @@ Experience
 - Monthly traffic to site includes ~10\% of undergraduate population of 30,000 students. 
 - Provided general full-stack feature development and testing, helped manage data retraining pipeline receiving periodic enrollment information updates from the campus registrar office.  
 - Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">course catalog / search feature</a>.  (More info [here]({% post_url 2018-06-06-askoski %}))
-- Berkeley, CA (April 2018 - Present)
+- Berkeley, CA (May 2018 - Present)
  <!-- Trained and optimized machine learning models, created back-end endpoints, designed and implemented the user interface.  -->
 
 **Software Engineering Intern - Sabre Corporation**
@@ -43,7 +43,7 @@ Experience
 
 - Worked with Michael Mahoney and course staff to scale course infrastructure and prototype materials for the pilot 4-unit offering of the class. 
 - Guided and mentored students during office hours and discussion sections.
-- Berkeley, CA (Nov 2017 - Feb 2019)
+- Berkeley, CA (Nov 2017 - May 2018)
 	
 <!-- * [Projects]({{site.url}}/projects)	 -->
 <!-- * DataKind -->
@@ -65,7 +65,7 @@ Awards and Publications
 
 <center> <h2> About Me </h2> </center>
 
-I enjoy traveling, am a huge fan of Calvin and Hobbes, and train in amateur boxing in my free time. 
+I enjoy backpacking and train in amateur boxing in my free time. 
 
 <!-- I train with Cal Boxing in my free time. and am a proponent of simplicity in daily life.  and would like to own a Bernese Mountain Dog. -->
 
@@ -75,6 +75,7 @@ I enjoy traveling, am a huge fan of Calvin and Hobbes, and train in amateur boxi
 	- _Quiet_ by Susan Cain 
 	- _Can't Hurt Me_ by David Goggins 
 	- _Humans of New York: Stories_ by Brandon Stanton
+	- _Hyperbole and a Half_ by Allie Brosh
 
 - Favorite Movies
 	- _Fight Club_ 
