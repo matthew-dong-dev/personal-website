@@ -176,7 +176,7 @@ That concludes *By the Numbers 2*!  Thank you for reading, and feel free to let
 
 Code used is [here][btn2.md].  
 
-[btn2.md]: https://github.com/mdong127/biometric_2/blob/master/report/sp17_analysis.md
+<!-- [btn2.md]: https://github.com/mdong127/biometric_2/blob/master/report/sp17_analysis.md -->
 
 **Possible Continuations:**
 

@@ -13,9 +13,6 @@ layout: page
 
 ---
 
-
-
-
 I enjoy backpacking and train in amateur boxing in my free time. 
 
 <!-- I train with Cal Boxing in my free time. and am a proponent of simplicity in daily life.  and would like to own a Bernese Mountain Dog. -->

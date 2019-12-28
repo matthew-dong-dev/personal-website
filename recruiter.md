@@ -3,14 +3,11 @@ title: Recruiter
 layout: page
 ---
 
-<img src="/assets/images/headshot.jpg" alt="Matthew Dong Headshot" style="width:2em; height:3em;">
-
+<img src="/assets/images/headshot.jpg" alt="Matthew Dong Headshot" style="width:10em; height:10em;">
 
 <center> <h2> Recruiter Info </h2> </center>
 
-You can find my resume [here]({{site.url}}/resume/matthew-dong-resume.pdf) and reach me at: _mdong@berkeley.edu_. 
-
-[here]({{ site.url }}/{{site.resume-url}})
+You can find my resume [here]({{ site.url }}/{{site.resume-url}}) and reach me at: _mdong@berkeley.edu_. 
 
 Education
 ---------
@@ -57,5 +54,3 @@ Awards and Publications
 **Undergraduate Research Fellow**
 
 - Applied and received a $6,000 university grant to conduct a self-directed research project under the guidance of a faculty mentor. 
-
---- 
