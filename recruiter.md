@@ -3,12 +3,14 @@ title: Recruiter
 layout: page
 ---
 
-<img src="/assets/images/headshot.jpg" alt="Matthew Dong Headshot" style='height="5" width="5"'>
+<img src="/assets/images/headshot.jpg" alt="Matthew Dong Headshot" style="width:2em; height:3em;">
 
 
 <center> <h2> Recruiter Info </h2> </center>
 
 You can find my resume [here]({{site.url}}/resume/matthew-dong-resume.pdf) and reach me at: _mdong@berkeley.edu_. 
+
+[here]({{ site.url }}/{{site.resume-url}})
 
 Education
 ---------
