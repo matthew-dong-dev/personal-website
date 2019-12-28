@@ -1,12 +1,11 @@
 ---
-layout: post
 title: "Calvin and Hobbes: More Than Just a Comic Strip"
+layout: post
 date: 2017-06-02
-excerpt: "Why is Calvin and Hobbes the comic strip of its generation?"
-feature: assets/img/featured_images/calvin-hobbes.jpg
-comments: true
-reading_time: true
-tag: [personal-writing, calvin-and-hobbes]
+category: blog
+image: /assets/images/featured_images/calvin-hobbes.jpg
+headerImage: true
+
 ---
 
 Three words to describe _Calvin and Hobbes_ are timeless, magical, and transcendent. Bill Watterson’s comic strip engaged readers at every age, from every background, and captivated an audience for more than two decades after its final print. First read it when you’re young for the relatability and the slapstick comedy, then read it again when you’re older for the subtleties and sophisticated humor, and discover at each level hidden depths you never realized existed in between the margins. The emotions and ideas Watterson explored in _Calvin and Hobbes_ expand to much larger than the panels they’re packed into, and there’s something about this comic strip that makes it memorable for each individual person.
