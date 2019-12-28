@@ -21,10 +21,10 @@ Experience
 **Software Developer & Research Assistant - CAHL Research Lab**
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
-- Worked under the supervision of Zachary Pardos and collaborated on machine learning research and software development teams building an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.
-- Monthly traffic to site includes ~10\% of undergraduate population of 30,000 students. 
-- Provided general full-stack feature development and testing, helped manage data retraining pipeline receiving periodic enrollment information updates from the campus registrar office.  
-- Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">course catalog / search feature</a>.  
+- Worked under the supervision of Zachary Pardos and collaborated on software development and machine learning research teams building an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.
+- Annual traffic to site includes ~10\% of undergraduate population of 30,000 students. 
+- Conducted general full-stack feature development and testing, helped manage model retraining pipeline incorporating course API data streams and student enrollment information updates from the campus registrar office.  
+- Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">search feature / course catalog</a>.  
 (More info <a href="{% post_url 2018-06-06-askoski %}" target="_blank">here</a>)
 - Berkeley, CA (May 2018 - Present)
  <!-- Trained and optimized machine learning models, created back-end endpoints, designed and implemented the user interface.  -->
@@ -32,7 +32,7 @@ Experience
 **Software Engineering Intern - Sabre Corporation**
 
 - Worked on Sabre's <a href="https://beta.developer.sabre.com" target="_blank">developer portal site</a>, used to access published APIs from operational units across the company.
-- Engineered and shipped stakeholder requested features along with corresponding test coverage to enhance the content management system's functionality.
+- Contributed production code with unit and functional test coverage for content management system (Drupal) enhancements, incorporated stakeholder specifications, worked in agile environment.
 - Southlake, TX (May 2019 - Aug 2019)
 
 **Undergraduate Student Instructor - <a href="{{site.url}}/assets/files/stat89a_syllabus.pdf" target="_blank">Stat 89A: Linear Algebra for Data Science</a>**
