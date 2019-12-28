@@ -13,20 +13,22 @@ Notes:
 
 ### Build tasks: 
 
+1. add google analytics to github and medium buttons
 1. optimize loading time of profile picture + fix image attributes to be compatible for mobile viewing
-1. Create dev branch and configure Travis to do deployment
+1. Configure Travis to do deployment
 	- https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075
 	- https://docs.travis-ci.com/user/deployment/pages/
-1. How to filter out bots from analytics data: https://medium.com/insights-metrics/spotting-bots-in-google-analytics-2cdd3ae3ed9b 
-1. change majority of MD links to anchor tags that open in new tab
 1. Write tests to be run on build
 	- e.g. automate basic regression test - make sure all links work
+1. Filter out bots from analytics data: https://medium.com/insights-metrics/spotting-bots-in-google-analytics-2cdd3ae3ed9b 
 1. regex for all png and jpg files?  `\.(png|jpg)`
 1. look into dev settings: https://jekyllrb.com/docs/usage/ 
-1. add tags to posts & add option to search by tags (see template version)
 
 ### Completed Build Tasks
 
+1. [x] do a dummy code review with commenting on files - difference between submit comments & approve vs just submit comments
+1. [x] change majority of MD links to anchor tags that open in new tab
+1. [x] configure travis CI for dev branches
 1. [x] Configure Travis CI on your repo to track failing builds - https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html
 1. [x] enable google tag manager to track pdf views
 	- https://youtu.be/r87A-Ql2czg
@@ -56,6 +58,7 @@ Notes:
 1. [x] insert a basic _by the numbers post_ w/ images, YAML header, etc... 
 1. [x] redirect post home button to proper `site.url`
 1. [x] choose & change theme & link template to your github pages page 
+1. [deprecated] add tags to posts & add option to search by tags (see template version)
 
 --- 
 
