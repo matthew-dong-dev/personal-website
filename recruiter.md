@@ -18,7 +18,7 @@ Education
 Experience 
 ----------
 
-**Research Assistant & Software Developer - CAHL Research Lab**
+**Software Developer & Research Assistant - CAHL Research Lab**
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
 - Worked under the supervision of Zachary Pardos and collaborated on machine learning research and software development teams building an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.

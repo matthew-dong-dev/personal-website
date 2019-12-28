@@ -8,7 +8,7 @@ bio: Welcome to my website!
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/about-pic.jpg
+picture: assets/images/website-main-photo.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
