@@ -5,14 +5,16 @@ layout: page
 
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
+<img src="/assets/images/about-pic.jpg" alt="Matthew Dong Picture" style='height="5" width="5"'>
 
-   
+<center> <h2> About Me </h2> </center>
+
 <center>  Hi there!  My name is Matthew and I’m a student interested in leveraging technological advances towards sustainability goals.  </center>
 
 ---
 
 
-<center> <h2> About Me </h2> </center>
+
 
 I enjoy backpacking and train in amateur boxing in my free time. 
 

@@ -3,7 +3,8 @@ title: Recruiter
 layout: page
 ---
 
-<img src="/assets/images/about-pic.jpg" alt="Matthew Dong Picture" style='height="10" width="10"'>
+<img src="/assets/images/headshot.jpg" alt="Matthew Dong Headshot" style='height="5" width="5"'>
+
 
 <center> <h2> Recruiter Info </h2> </center>
 
