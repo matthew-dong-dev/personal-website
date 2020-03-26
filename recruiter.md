@@ -8,12 +8,14 @@ layout: page
 
 <center> <h2> Recruiter Info </h2> </center>
 
-You can find my resume <a href="{{ site.url }}/{{ site.resume-url }}" target="_blank">here</a> and reach me at: _mdong@berkeley.edu_. 
+You can reach me at: _mdong@berkeley.edu_. 
+<!-- You can find my resume <a href="{{ site.url }}/{{ site.resume-url }}" target="_blank">here</a> and reach me at: _mdong@berkeley.edu_.  -->
 
 Education
 ---------
 
-**B.A., Data Science**; University of California, Berkeley (Exp. Grad 2021)
+**B.A., Data Science**; University of California, Berkeley 
+<!-- (Exp. Grad 2021) -->
 
 Experience 
 ----------
@@ -23,22 +25,22 @@ Experience
 
 - Worked under the supervision of Zachary Pardos and collaborated on software development and machine learning research teams building an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.
 - Annual traffic to site includes ~10\% of undergraduate population of 30,000 students. 
-- Conducted general full-stack feature development and testing, helped manage model retraining pipeline incorporating course API data streams and student enrollment information updates from the campus registrar office.  
+- Conducted full-stack feature development and testing, managed model retraining pipeline incorporating class API data streams and student enrollment updates from  campus registrar office.  
 - Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">search feature / course catalog</a>.  
-(More info <a href="{% post_url 2018-06-06-askoski %}" target="_blank">here</a>)
+<!-- (More info <a href="{% post_url 2018-06-06-askoski %}" target="_blank">here</a>) -->
 - Berkeley, CA (May 2018 - Present)
  <!-- Trained and optimized machine learning models, created back-end endpoints, designed and implemented the user interface.  -->
 
 **Software Engineering Intern - Sabre Corporation**
 
-- Worked on Sabre's <a href="https://beta.developer.sabre.com" target="_blank">developer portal site</a>, used to access published APIs from operational units across the company.
-- Contributed production code with unit and functional test coverage for content management system (Drupal) enhancements, incorporated stakeholder specifications, worked in agile environment.
+- Engineered new features and functions on Sabre's <a href="https://beta.developer.sabre.com" target="_blank">developer portal site</a>, used to access APIs from operational units across the company.
+- Expanded test suite coverage for content management system (Drupal) enhancements, incorporated stakeholder specifications, and worked in agile environment.
 - Southlake, TX (May 2019 - Aug 2019)
 
 **Undergraduate Student Instructor - <a href="{{site.url}}/assets/files/stat89a_syllabus.pdf" target="_blank">Stat 89A: Linear Algebra for Data Science</a>**
 
-- Worked with Michael Mahoney and course staff to scale course infrastructure and prototype materials for the pilot 4-unit offering of the class. 
-- Guided and mentored students during office hours and discussion sections.
+- Worked with Michael Mahoney and staff members to scale course infrastructure and prototype materials for the pilot 4-unit offering of the class. 
+- Guided students during office hours and discussion sections.
 - Berkeley, CA (Nov 2017 - May 2018)
 	
 <!-- * [Projects]({{site.url}}/projects)	 -->

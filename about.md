@@ -14,9 +14,11 @@ layout: page
 
 ---
 
-<center> In my free time I enjoy backpacking and amateur boxing. </center>
+<center> In my free time I enjoy camping and amateur boxing. </center>
 
 <img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'>
+
+<img src="/assets/images/utah.jpg" alt="utah" class='bigger-image'>
 
 <img src="/assets/images/cal-boxing.jpg" alt="Cal Boxing" class='bigger-image'>
 
@@ -33,15 +35,15 @@ Books
 
 Movies
 
-- _Fight Club_ 
-- _3 Idiots_ 
-- _Office Space_
 - _Free Solo_ 
+- _Napolean Dynamite_
+- _3 Idiots_ 
+- _Fight Club_ 
 
 Shows
 
 - _Impractical Jokers_
-- _Bojack Horseman_  
+- _Gravity Falls_  
 - _Planet Earth_	
 - _Cosmos: A Personal Voyage_ 
 

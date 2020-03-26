@@ -14,7 +14,7 @@ picture: assets/images/website-main-photo.jpg
 # and specify source (external or local).
 resume: false
 resume-external: false
-resume-url: resume/matthew-dong-resume.pdf
+# resume-url: resume/matthew-dong-resume.pdf
 # https://drive.google.com/file/d/1W_wS_XiCO7pd7t50DQrjujP90izDTwrD/view?usp=sharing
 
 url: https://mdong127.github.io
@@ -52,13 +52,13 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mdong127
+# github: mdong127
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: mdong127
+# medium: mdong127
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 # email: mdong@berkeley.edu
