@@ -9,6 +9,7 @@ hidden: true # don't count this post in blog pagination
 
 ---
 
+<!-- (More info <a href="{% post_url 2018-06-06-askoski %}" target="_blank">here</a>) -->
 <figure>
 <a href="https://askoski.berkeley.edu" target="_blank">
 	<img src="/assets/images/featured_images/askoski.png" alt="AskOski Logo" style="width:200px;

@@ -28,7 +28,6 @@ Experience
 - Annual traffic to site includes ~10% of undergraduate population of 30,000 students. 
 - Conducted full-stack feature development and testing, managed model retraining pipeline incorporating class API data streams and student enrollment updates from  campus registrar office.  
 - Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">search feature / course catalog</a>.  
-<!-- (More info <a href="{% post_url 2018-06-06-askoski %}" target="_blank">here</a>) -->
 - Berkeley, CA (May 2018 - Present)
  <!-- Trained and optimized machine learning models, created back-end endpoints, designed and implemented the user interface.  -->
 
