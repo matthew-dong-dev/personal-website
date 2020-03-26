@@ -5,8 +5,8 @@ layout: page
 
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-<img src="/assets/images/about-pic.jpg" alt="Matthew Dong About" style="width:200px;
-    height: auto; display: block; margin: 0 auto;">
+<!-- <img src="/assets/images/about-pic.jpg" alt="Matthew Dong About" style="width:200px;
+    height: auto; display: block; margin: 0 auto;"> -->
 
 <center> <h2> About Me </h2> </center>
 

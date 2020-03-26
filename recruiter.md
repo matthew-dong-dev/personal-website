@@ -8,7 +8,8 @@ layout: page
 
 <center> <h2> Recruiter Info </h2> </center>
 
-You can reach me at: _mdong@berkeley.edu_. 
+<center>You can reach me at: <i>mdong@berkeley.edu</i></center>
+
 <!-- You can find my resume <a href="{{ site.url }}/{{ site.resume-url }}" target="_blank">here</a> and reach me at: _mdong@berkeley.edu_.  -->
 
 Education
@@ -23,8 +24,8 @@ Experience
 **Software Developer & Research Assistant - CAHL Research Lab**
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
-- Worked under the supervision of Zachary Pardos and collaborated on software development and machine learning research teams building an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.
-- Annual traffic to site includes ~10\% of undergraduate population of 30,000 students. 
+- Worked under the supervision of Zachary Pardos and collaborated on software development and machine learning research teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.
+- Annual traffic to site includes ~10% of undergraduate population of 30,000 students. 
 - Conducted full-stack feature development and testing, managed model retraining pipeline incorporating class API data streams and student enrollment updates from  campus registrar office.  
 - Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">search feature / course catalog</a>.  
 <!-- (More info <a href="{% post_url 2018-06-06-askoski %}" target="_blank">here</a>) -->

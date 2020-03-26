@@ -16,9 +16,7 @@ resume: false
 resume-external: false
 # resume-url: resume/matthew-dong-resume.pdf
 # https://drive.google.com/file/d/1W_wS_XiCO7pd7t50DQrjujP90izDTwrD/view?usp=sharing
-
 url: https://mdong127.github.io
-# your url: http://mdong127.github.io
 
 permalink: /:title/
 
