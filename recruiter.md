@@ -15,7 +15,7 @@ layout: page
 Education
 ---------
 
-**B.A., Data Science**; University of California, Berkeley 
+**B.A., Data Science**; University of California, Berkeley *(GPA: 3.92)*
 <!-- (Exp. Grad 2021) -->
 
 Experience 
@@ -25,9 +25,9 @@ Experience
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
 - Worked under the supervision of Zachary Pardos and collaborated on software development and machine learning research teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.
-- Annual traffic to site includes ~10% of undergraduate population of 30,000 students. 
-- Conducted full-stack feature development and testing, managed model retraining pipeline incorporating class API data streams and student enrollment updates from  campus registrar office.  
+- Conducted full-stack feature development and testing, managed data & model retraining pipeline incorporating campus API data streams and student enrollment updates from the university registrar.  
 - Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">search feature / course catalog</a>.  
+- Traffic to site includes 10% of the undergraduate population annually. 
 - Berkeley, CA (May 2018 - Present)
  <!-- Trained and optimized machine learning models, created back-end endpoints, designed and implemented the user interface.  -->
 
