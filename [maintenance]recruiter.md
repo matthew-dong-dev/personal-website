@@ -25,7 +25,7 @@ Experience
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
 - Worked under the supervision of Zachary Pardos and collaborated on software development and machine learning research teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.
-- Conducted full-stack feature development and testing, managed data & model retraining pipeline incorporating campus API data streams and student enrollment updates from the university registrar.  
+- Conducted full-stack feature development and testing, managed data & model training pipeline incorporating campus API data streams and student enrollment updates from the university registrar.  
 - Designed and built the system’s enhanced <a href="https://askoski.berkeley.edu/search" target="_blank">course catalog search feature</a>.  
 - Traffic to site includes 10% of the undergraduate population annually. 
 - Berkeley, CA (May 2018 - Present)
