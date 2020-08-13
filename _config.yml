@@ -1,3 +1,5 @@
+# find each one of these variables in search using site.variable
+
 # main text of home
 name: Matthew Dong
 bio: Welcome to my website! 
@@ -50,7 +52,7 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-# github: matthew-y-dong
+github: matthew-y-dong
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
