@@ -16,7 +16,7 @@ external-image: false
 # and specify source (external or local).
 resume: false
 resume-external: false
-# resume-url: resume/matthew-dong-resume.pdf
+resume-url: resume/matthew-dong-resume.pdf
 # https://drive.google.com/file/d/1W_wS_XiCO7pd7t50DQrjujP90izDTwrD/view?usp=sharing
 url: https://matthew-y-dong.github.io
 

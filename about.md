@@ -14,7 +14,7 @@ layout: page
 
 ---
 
-<center> In my free time I enjoy camping and amateur boxing. </center>
+<center> In my free time I enjoy hiking, camping, and amateur boxing. </center>
 
 <img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'>
 
@@ -36,16 +36,16 @@ Books
 Movies
 
 - _Free Solo_ 
-- _Napolean Dynamite_
 - _3 Idiots_ 
+- _Napolean Dynamite_
 - _Fight Club_ 
 
 Shows
 
 - _Impractical Jokers_
-- _Gravity Falls_  
 - _Planet Earth_	
 - _Cosmos: A Personal Voyage_ 
+- _Gravity Falls_  
 
 <!-- <p class="extra">
 	Site template: 

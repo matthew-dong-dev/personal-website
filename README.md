@@ -8,6 +8,7 @@ Notes:
 
 - Sometimes you need to clear the browser cache for changes to propogate.  If you change the config file, you need to rebuild the site.  
 - [Website template](https://github.com/sergiokopplin/indigo)
+- If you want to take down pages, just add [maintenance] in front of the md or pdf file, then Jekyll won't be able to find them and will default to the 404 page.
 
 ## To do: 
 
