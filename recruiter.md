@@ -10,13 +10,14 @@ layout: page
 
 <center>You can reach me at <i>mdong@berkeley.edu</i> and find my resume <a href="{{ site.url }}/{{ site.resume-url }}" target="_blank">here</a>.</center>
 
+<br>
 
 Education
 ---------
 
 **B.A. Data Science** (GPA: 3.92)
 <p style="position: relative; bottom: 20px;">
-Concentration: Environment & Resource Management <br>
+Concentration: Environment and Resource Management <br>
 University of California, Berkeley (2021)
 </p>
 
@@ -48,6 +49,7 @@ Experience
 <!-- * [Projects]({{site.url}}/projects)	 -->
 <!-- * DataKind -->
 <!-- Global Policy Lab -->
+<br>
 
 Awards and Publications
 ----------
