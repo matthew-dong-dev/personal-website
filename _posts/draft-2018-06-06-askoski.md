@@ -25,7 +25,7 @@ hidden: true # don't count this post in blog pagination
 - I incorporated the <a href="https://askoski.berkeley.edu/search" target="_blank">enhanced course catalog / search</a> into the site to improve the course discovery process / browsing experience. 
 - What differentiates this search feature is that a query will not only be matched against default catalog information, but also to additional inferred topics for each course.  These inferred keywords are produced by a machine learning model tagging course embeddings with semantics, i.e. generalizing a class' description based on the descriptions of similar classes. 
 
-- <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-29736-7_36" target="_blank">Full paper</a>, <a href="{{site.url}}/assets/files/EC-TEL-paper.pdf" target="_blank">Full paper PDF</a>
+- <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-29736-7_36" target="_blank">Full paper</a>, <a href="{{site.url}}/assets/files/ECTEL-paper.pdf" target="_blank">Full paper PDF</a>
 - <a href="https://github.com/mdong127/ICS-research" target="_blank">Repository</a> containing code for model and training scripts
 <!-- - Tools used -->
 <!-- - What makes this course catalog “intelligent” is that a search query will not only be matched against course titles and descriptions, but also to additional “inferred keywords” for each course.  The inferred keywords are a machine learning model’s prediction as to what a class is about based on its true description and its mathematical representation learned from student behavior, intending to capture a semantic portrayal of courses beyond university catalog descriptions.  -->
