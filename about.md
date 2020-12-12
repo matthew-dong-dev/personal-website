@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: page-with-credit
 ---
 
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
@@ -10,7 +10,7 @@ layout: page
 
 <center> <h2> About Me </h2> </center>
 
-<center>  Hi there!  My name is Matthew and I’m a student interested in leveraging technological advances towards sustainability goals.  </center>
+<center>  Hi there!  My name is Matthew and my interests include leveraging technological advances towards sustainability goals.  </center>
 
 ---
 
