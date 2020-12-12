@@ -1,5 +1,5 @@
 <p>
-    <h2><a href="https://matthewydong.com ">Matthew Dong's Personal Website</a> · <img src="https://travis-ci.org/mdong127/mdong127.github.io.svg?branch=master" alt="Build Status" style="max-width:100%;"></a></h2>
+    <h2><a href="https://matthewydong.com ">Personal Website</a> · <img src="https://travis-ci.org/mdong127/mdong127.github.io.svg?branch=master" alt="Build Status" style="max-width:100%;"></a></h2>
 </p>
 
 > Run `bundle exec jekyll serve --config _config.yml,_config-dev.yml` for dev environment
@@ -7,8 +7,8 @@
 Notes: 
 
 - Sometimes you need to clear the browser cache for changes to propogate.  If you change the config file, you need to rebuild the site.  
-- [Website template](https://github.com/sergiokopplin/indigo)
 - If you want to take down pages, just add [maintenance] in front of the md or pdf file, then Jekyll won't be able to find them and will default to the 404 page.
+- [Website template](https://github.com/sergiokopplin/indigo)
 
 ## To do: 
 
