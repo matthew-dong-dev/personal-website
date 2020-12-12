@@ -14,9 +14,9 @@ layout: page
 
 ---
 
-<center> In my free time I enjoy hiking, camping, and amateur boxing. </center>
+<center> In my free time I enjoy outdoors activities and boxing. </center>
 
-<img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'>
+<!-- <img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'> -->
 
 <img src="/assets/images/utah.jpg" alt="utah" class='bigger-image'>
 
