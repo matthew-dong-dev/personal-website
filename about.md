@@ -14,7 +14,7 @@ layout: page-with-credit
 
 ---
 
-<center> In my free time I enjoy outdoors activities and boxing. </center>
+<center> In my free time I enjoy outdoors activities and following combat sports. </center>
 
 <!-- <img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'> -->
 
@@ -32,6 +32,7 @@ Books
 - _Can't Hurt Me_ by David Goggins 
 - _Humans of New York: Stories_ by Brandon Stanton
 - _Hyperbole and a Half_ by Allie Brosh
+- _Calvin and Hobbes_ by Bill Watterson
 
 Movies
 
@@ -39,6 +40,7 @@ Movies
 - _3 Idiots_ 
 - _Napolean Dynamite_
 - _Fight Club_ 
+- _Wreck it Ralph_
 
 Shows
 
@@ -46,6 +48,7 @@ Shows
 - _Planet Earth_	
 - _Cosmos: A Personal Voyage_ 
 - _Gravity Falls_  
+- _Tom and Jerry_
 
 <!-- <p class="extra">
 	Site template: 
