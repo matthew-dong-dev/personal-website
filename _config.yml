@@ -44,15 +44,16 @@ disqus:
   categories: # [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
+# linkedin: matthewydong
+# github: matthew-y-dong
+# email: mdong@berkeley.edu
 # facebook: myfacebook
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: matthewydong
 # youtube: myyoutube
 # spotify: myspotify
-github: matthew-y-dong
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -61,7 +62,6 @@ github: matthew-y-dong
 # medium: mdong127
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-# email: mdong@berkeley.edu
 
 # authors:
 #     johndoe:

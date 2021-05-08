@@ -20,7 +20,7 @@ layout: page-with-credit
 
 <img src="/assets/images/utah.jpg" alt="utah" class='bigger-image'>
 
-<img src="/assets/images/cal-boxing.jpg" alt="Cal Boxing" class='bigger-image'>
+<!-- <img src="/assets/images/cal-boxing.jpg" alt="Cal Boxing" class='bigger-image'> -->
 
 ---
 
