@@ -45,7 +45,7 @@ Experience
 - Developed CMS enhancements based on client requirements on Sabre's <a href="https://developer.sabre.com" target="_blank">developer portal site</a> used to access company APIs, expanded test suite coverage, worked in agile environment.
 - Southlake, TX (May 2019 - Aug 2019)
 
-**Undergraduate Student Instructor - <a href="{{site.url}}/assets/files/stat89a_syllabus.pdf" target="_blank">Stat 89A: Linear Algebra for Data Science</a>**
+**Teaching Assistant - <a href="{{site.url}}/assets/files/stat89a_syllabus.pdf" target="_blank">Stat 89A: Linear Algebra for Data Science</a>**
 
 - Worked with lead instructor and staff members to scale course infrastructure and prototype materials for the pilot 4-unit offering of the class. Guided students during office hours and discussion sections.
 - Berkeley, CA (Nov 2017 - May 2018)
