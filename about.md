@@ -10,11 +10,11 @@ layout: page-with-credit
 
 <center> <h2> About Me </h2> </center>
 
-<center>  Hi there!  My name is Matthew and my interests include leveraging technological advances towards sustainability goals.  </center>
+<center>  Hi there!  My name is Matthew and I am interested in leveraging technological advances towards a sustainable future.  </center>
 
 ---
 
-<center> In my free time I enjoy outdoors activities and following combat sports. </center>
+<center> In my free time I enjoy being outdoors and following combat sports. </center>
 
 <!-- <img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'> -->
 
@@ -40,7 +40,8 @@ Movies
 - _3 Idiots_ 
 - _Napolean Dynamite_
 - _Fight Club_ 
-- _Wreck it Ralph_
+- _How to Train Your Dragon_
+<!-- - _Wreck it Ralph_ -->
 
 Shows
 
