@@ -15,35 +15,39 @@ layout: page
 Education
 ---------
 
-**B.A. Data Science** (GPA: 3.92)
+**University of California, Berkeley** (Grad. 2021)
 <p style="position: relative; bottom: 20px;">
-Concentration: Environment and Resource Management <br>
-University of California, Berkeley (2021)
+<!-- Concentration: Environment and Resource Management <br> -->
+B.A. Data Science - High Distinction in General Scholarship (GPA: 3.93)
 </p>
 
 Experience 
 ----------
 
+**Software Engineering Intern - EcoDataLab**
+
+- Led student developer team working on carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses.  Organized sprint timelines and maintained communication of goal progress with stakeholders. 
+- Implemented UI features with React/Redux, managed deployments through Google Cloud Platform.  Improved GoLang service logic, updated research databases to increase API response accuracy. <a href="https://api-central.berkeley.edu/api/11" target="_blank">(api-central.berkeley.edu/api/11)</a>
+- Berkeley, CA (Aug 2020 - July 2021)
+
 **Software Developer & Research Assistant - CAHL Research Lab**
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
-- Worked under the supervision of Zachary Pardos and collaborated on software development and machine learning research teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.
-- Managed data pipeline incorporating campus API data sources and semesterly student enrollment updates from the university registrar to retrain different neural network models used by system features.
-- Performed full-stack web development & testing and built the site's course catalog search feature.
-- Annual traffic to site includes 10% of the undergraduate population of 30k students. 
+- Collaborated on both software development and machine learning research teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Annual traffic to site includes 10% of the undergraduate population of 30k students. 
+- Built and managed data pipeline using Apache Airflow incorporating campus APIs and registrar enrollment data dumps to retrain neural net model predictions and update MySQL DB tables used by system features.
+- Engineered full stack features using Angular/Flask, helped containerize back-end service with Docker.
 - Berkeley, CA (May 2018 - Aug 2020)
+<!-- - Performed full-stack web development & testing and built the site's course catalog search feature. -->
  <!-- Trained and optimized machine learning models, created back-end endpoints, designed and implemented the user interface.  -->
 
 **Software Engineering Intern - Sabre Corporation**
 
-- Engineered new features and functions based on stakeholder requirements on Sabre's <a href="https://beta.developer.sabre.com" target="_blank">developer portal site</a>, used to access APIs from operations units across the company.
-- Expanded test suite coverage for content management system (Drupal) enhancements, worked in agile environment.
+- Developed CMS enhancements based on client requirements on Sabre's <a href="https://developer.sabre.com" target="_blank">developer portal site</a> used to access company APIs, expanded test suite coverage, worked in agile environment.
 - Southlake, TX (May 2019 - Aug 2019)
 
 **Undergraduate Student Instructor - <a href="{{site.url}}/assets/files/stat89a_syllabus.pdf" target="_blank">Stat 89A: Linear Algebra for Data Science</a>**
 
-- Worked with Michael Mahoney and staff members to scale course infrastructure and prototype materials for the pilot 4-unit offering of the class. 
-- Guided students during office hours and discussion sections.
+- Worked with lead instructor and staff members to scale course infrastructure and prototype materials for the pilot 4-unit offering of the class. Guided students during office hours and discussion sections.
 - Berkeley, CA (Nov 2017 - May 2018)
 	
 <!-- * [Projects]({{site.url}}/projects)	 -->
