@@ -34,7 +34,7 @@ Experience
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
 - Collaborated on both software development and machine learning research teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Annual traffic to site includes 10% of the undergraduate population of 30k students. 
-- Built and managed data pipeline using Apache Airflow incorporating campus APIs and registrar enrollment data dumps to retrain neural net model predictions and update MySQL DB tables used by system features.
+- Built and managed data pipeline using Apache Airflow that incorporated campus APIs and registrar enrollment data dumps to retrain neural net model predictions and update MySQL DB tables used by system features.
 - Engineered full stack features using Angular/Flask, helped containerize back-end service with Docker.
 - Berkeley, CA (May 2018 - Aug 2020)
 <!-- - Performed full-stack web development & testing and built the site's course catalog search feature. -->
@@ -42,12 +42,12 @@ Experience
 
 **Software Engineering Intern - Sabre Corporation**
 
-- Developed CMS enhancements based on client requirements on Sabre's <a href="https://developer.sabre.com" target="_blank">developer portal site</a> used to access company APIs, expanded test suite coverage, worked in agile environment.
+- Developed CMS enhancements based on client specifications on Sabre's <a href="https://developer.sabre.com" target="_blank">developer portal site</a> used to access company APIs, expanded test suite coverage, worked in agile environment.
 - Southlake, TX (May 2019 - Aug 2019)
 
 **Teaching Assistant - <a href="{{site.url}}/assets/files/stat89a_syllabus.pdf" target="_blank">Stat 89A: Linear Algebra for Data Science</a>**
 
-- Worked with lead instructor and staff members to scale course infrastructure and prototype materials for the pilot 4-unit offering of the class. Guided students during office hours and discussion sections.
+- Worked with lead instructor and staff members to scale course infrastructure and prototype materials for the pilot full-version offering of the class. Guided students during office hours and discussion sections.
 - Berkeley, CA (Nov 2017 - May 2018)
 	
 <!-- * [Projects]({{site.url}}/projects)	 -->
@@ -66,4 +66,4 @@ Awards and Publications
 
 **Undergraduate Research Fellow**
 
-- Applied and received a $6,000 university grant to conduct a self-directed research project under the guidance of a faculty mentor. 
+- Received $6,000 grant to conduct a self-directed research project under the guidance of a faculty mentor.  Submitted work for publication and presented accepted work at a research conference. 
