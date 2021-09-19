@@ -8,7 +8,7 @@ layout: page
 
 <center> <h2> Recruiter Info </h2> </center>
 
-<center>You can reach me at <i>mdong@berkeley.edu</i> and find my resume <a href="{{ site.url }}/{{ site.resume-url }}" target="_blank">here</a>.</center>
+<center>You can reach me at <i>mdong@berkeley.edu</i> and find my resume <a href="{{ site.url }}/{{ site.resume-url }}" target="_blank">here</a> and my Github profile <a href="https://github.com/matthew-y-dong" target="_blank">here</a>.</center>
 
 <br>
 
