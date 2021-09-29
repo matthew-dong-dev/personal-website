@@ -27,14 +27,14 @@ Experience
 **Software Engineering Intern - EcoDataLab**
 
 - Led student developer team working on carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses.  Organized sprint timelines and maintained communication of goal progress with stakeholders. 
-- Implemented UI features with React/Redux, managed deployments through Google Cloud Platform.  Improved GoLang service logic, updated research databases to increase API response accuracy. <a href="https://api-central.berkeley.edu/api/11" target="_blank">(api-central.berkeley.edu/api/11)</a>
+- Implemented UI features with React/Redux, managed deployments through GCP Web Hosting.  Improved API service logic, updated research databases to increase API response accuracy. <a href="https://api-central.berkeley.edu/api/11" target="_blank">(api-central.berkeley.edu/api/11)</a>
 - Berkeley, CA (Aug 2020 - July 2021)
 
 **Software Developer & Research Assistant - CAHL Research Lab**
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
 - Collaborated on both software development and machine learning research teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Annual traffic to site includes 10% of the undergraduate population of 30k students. 
-- Built and managed data pipeline using Apache Airflow that incorporated campus APIs and registrar enrollment data dumps to retrain neural net model predictions and update MySQL DB tables used by system features.
+- Built and managed data pipeline on remote server using Apache Airflow consuming campus APIs and registrar enrollment data dumps to retrain neural net model predictions and update system MySQL database.
 - Engineered full stack features using Angular/Flask, helped containerize back-end service with Docker.
 - Berkeley, CA (May 2018 - Aug 2020)
 <!-- - Performed full-stack web development & testing and built the site's course catalog search feature. -->
@@ -42,7 +42,7 @@ Experience
 
 **Software Engineering Intern - Sabre Corporation**
 
-- Developed CMS enhancements based on client specifications on Sabre's <a href="https://developer.sabre.com" target="_blank">developer portal site</a> used to access company APIs, expanded test suite coverage, worked in agile environment.
+- Developed CMS enhancements based on client specifications on Sabre's <a href="https://developer.sabre.com" target="_blank">developer portal site</a> used to access company APIs, expanded test suite coverage for Jenkins continuous integration pipeline, worked in agile environment.
 - Southlake, TX (May 2019 - Aug 2019)
 
 **Teaching Assistant - <a href="{{site.url}}/assets/files/stat89a_syllabus.pdf" target="_blank">Stat 89A: Linear Algebra for Data Science</a>**
