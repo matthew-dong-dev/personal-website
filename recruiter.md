@@ -12,31 +12,32 @@ layout: page
 
 <br>
 
-Education
----------
-
-**University of California, Berkeley** (Grad. 2021)
-<p style="position: relative; bottom: 20px;">
-B.A. Data Science (Concentration: Environment and Resource Management)
-High Distinction in General Scholarship (GPA: 3.93)
-</p>
-
 Experience 
 ----------
 
-**Software Engineering Intern - EcoDataLab**
+**Software Engineer (Back-End) - Target Corporation**
 
-- Led student developer team working on carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses.  Organized sprint timelines and maintained communication of goal progress with stakeholders. 
-- Improved service logic, integrated third party APIs, helped containerize back-end with Docker, automated  research database refresh process to increase API response accuracy. <a href="https://api-central.berkeley.edu/api/11" target="_blank">(api-central.berkeley.edu/api/11)</a>
-- Managed deployments through GCP Web Hosting and in-house server, implemented UI features with React/Redux. 
+- Built several new API features across the stores & supply chain space including: push block (enables managers to set which stores can receive inventory pushes), bulky attribute (new item attribute determining whether an item is eligible for automation processes at distribution centers), truckload optimization (CRUD application for transforming and publishing data used to optimize trailer loading).  
+    - All features included persisting data to postgres and Kafka, necessary alerting & metrics, as well as auditing and test coverage (unit, functional, integration).  
+    - Collaborated with product owners, outlined acceptance criteria, executed design, implemented code feedback. 
+- In both legacy and modern applications - addressed tech debt (handled several API migrations, major dependency updates, and resolved security vulnerabilities) and implemented best software practices (updated CI / CD pipelines, contributed core library updates, improved auditing, rewrote code as necessary).
+- Handled on call responsibilities - resolved bugs and educated users, triaged several incidents generating work stoppages.
+- Minneapolis, MN (Nov 2021 - Present)
+
+**Software Engineering Intern (Full-stack) - EcoDataLab**
+
+- Led student developer team working on carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses.   Worked as partial scrum master, organized sprints and communicated goals and progress with stakeholders.
+- Improved service logic to increase API response accuracy <a href="https://api-central.berkeley.edu/api/11" target="_blank">(api-central.berkeley.edu/api/11)</a>, helped containerize back-end with Docker to automate  research database refresh process, implemented UI features with React/Redux.
+- Managed deployments through GCP Web Hosting and in-house server. 
 - Berkeley, CA (Aug 2020 - July 2021)
 
 **Software Developer & Research Assistant - CAHL Research Lab**
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
-- Collaborated on both software development and machine learning research teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Annual traffic to site includes 10% of the undergraduate population of 30k students. 
-- Built and automated data pipeline using Apache Airflow.  Ran on remote server and integrated campus APIs and registrar enrollment data dumps to retrain neural net model predictions and update system MySQL database.
-- Engineered full stack features using Angular/Flask, helped refactor codebase to better achieve encapsulation goals and n-tier architecture pattern, piloted expansion of system to other university partners. 
+- Collaborated on both software development and machine learning research teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Annual traffic to site included 10% of the undergraduate population of 30k students. 
+- Built automated data pipeline using Apache Airflow integrating multiple campus APIs and registrar enrollment data dumps to retrain neural net models and refresh MySQL data tables.
+- Engineered full stack features using Angular/Flask (including search feature) and helped refactor codebase to follow OOP practices and modern architecture patterns.
+- Published research paper demonstrating use of ML models in ed-tech course search tools in practice. <a href="{{site.url}}/assets/files/ECTEL-paper.pdf" target="_blank">Full paper PDF</a>
 - Berkeley, CA (May 2018 - Aug 2020)
 <!-- - Performed full-stack web development & testing and built the site's course catalog search feature. -->
  <!-- Trained and optimized machine learning models, created back-end endpoints, designed and implemented the user interface.  -->
@@ -56,6 +57,15 @@ Experience
 <!-- * DataKind -->
 <!-- Global Policy Lab -->
 <br>
+
+Education
+---------
+
+**University of California, Berkeley** (Grad. 2021)
+<p style="position: relative; bottom: 20px;">
+B.A. Data Science (Concentration: Environment and Resource Management)
+High Distinction in General Scholarship (GPA: 3.93)
+</p>
 
 Awards and Publications
 ----------
