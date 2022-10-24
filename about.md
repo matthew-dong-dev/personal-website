@@ -10,11 +10,11 @@ layout: page-with-credit
 
 <center> <h2> About Me </h2> </center>
 
-<center>  Hi there!  My name is Matthew and I am interested in leveraging technological advances towards a sustainable future.  </center>
+<center>  Hi there!  My name is Matthew and I'm passionate about leveraging technological advances towards a sustainable future.  </center>
 
 ---
 
-<center> In my free time I enjoy being outdoors and following combat sports. </center>
+<center> In my free time I enjoy being outdoors and doing MMA. </center>
 
 <!-- <img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'> -->
 
