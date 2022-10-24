@@ -69,6 +69,19 @@ B.A. Data Science (Concentration: Environment and Resource Management)
 High Distinction in General Scholarship (GPA: 3.93/4)
 </p>
 
+Projects 
+----------
+
+**CA County Waste Management**
+
+- Forecasting project predicting CA county waste generation based on historic data and other engineered features.  Scraped data from government websites, trained and evaluated different prediction models, created a geospatial heat map with optimal model projections. <a href="https://matthewydong.com/ca-waste" target="_blank">GIS Map</a>, <a href="https://github.com/matthew-y-dong/ca-waste" target="_blank">Code</a>
+
+**E-waste Education Site**
+
+- Static React website describing national and regional electronic waste usage and policies with statistical visualizations. <a href=" e-waste-info.web.app " target="_blank">Site</a>, <a href="https://github.com/matthew-y-dong/e-waste-site" target="_blank">Code</a>
+
+<br>
+
 Awards and Publications
 ----------
 
