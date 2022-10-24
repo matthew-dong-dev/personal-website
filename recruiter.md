@@ -8,7 +8,7 @@ layout: page
 
 <center> <h2> Recruiter Info </h2> </center>
 
-<center>You can reach me at <i>mdong@berkeley.edu</i> and find my resume <a href="{{ site.url }}/{{ site.resume-url }}" target="_blank">here</a> and my Github profile <a href="https://github.com/matthew-y-dong" target="_blank">here</a>.</center>
+<center>You can find my resume <a href="{{ site.url }}/{{ site.resume-url }}" target="_blank">here</a> and my Github profile <a href="https://github.com/matthew-y-dong" target="_blank">here</a>.</center>
 
 <br>
 
@@ -17,8 +17,8 @@ Education
 
 **University of California, Berkeley** (Grad. 2021)
 <p style="position: relative; bottom: 20px;">
-<!-- Concentration: Environment and Resource Management <br> -->
-B.A. Data Science - High Distinction in General Scholarship (GPA: 3.93)
+B.A. Data Science (Concentration: Environment and Resource Management)
+High Distinction in General Scholarship (GPA: 3.93)
 </p>
 
 Experience 
@@ -27,7 +27,7 @@ Experience
 **Software Engineering Intern - EcoDataLab**
 
 - Led student developer team working on carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses.  Organized sprint timelines and maintained communication of goal progress with stakeholders. 
-- Improved service logic, integrated third party APIs, helped containerize back-end with Docker, automated  research database refresh process to increase API response accuracy. <a href="https://api-central.berkeley.edu/api/11/interactive-docs" target="_blank">(api-central.berkeley.edu/api/11)</a>
+- Improved service logic, integrated third party APIs, helped containerize back-end with Docker, automated  research database refresh process to increase API response accuracy. <a href="https://api-central.berkeley.edu/api/11" target="_blank">(api-central.berkeley.edu/api/11)</a>
 - Managed deployments through GCP Web Hosting and in-house server, implemented UI features with React/Redux. 
 - Berkeley, CA (Aug 2020 - July 2021)
 
@@ -41,7 +41,7 @@ Experience
 <!-- - Performed full-stack web development & testing and built the site's course catalog search feature. -->
  <!-- Trained and optimized machine learning models, created back-end endpoints, designed and implemented the user interface.  -->
 
-**Software Engineering Intern - Sabre Corporation**
+<!-- **Software Engineering Intern - Sabre Corporation**
 
 - Developed CMS (Drupal) enhancements based on client specifications on Sabre's <a href="https://developer.sabre.com" target="_blank">developer portal</a> based on client specifications.  Engineered features using LAMP stack and worked in agile environment.
 - Expanded test coverage for Jenkins continuous integration pipeline through both unit and functional tests. 
@@ -50,7 +50,7 @@ Experience
 **Teaching Assistant - <a href="{{site.url}}/assets/files/stat89a_syllabus.pdf" target="_blank">Stat 89A: Linear Algebra for Data Science</a>**
 
 - Worked with lead instructor and staff members to scale course infrastructure and prototype materials for the pilot full-version offering of the class. Guided students during office hours and discussion sections.
-- Berkeley, CA (Nov 2017 - May 2018)
+- Berkeley, CA (Nov 2017 - May 2018) -->
 	
 <!-- * [Projects]({{site.url}}/projects)	 -->
 <!-- * DataKind -->
