@@ -78,7 +78,7 @@ Projects
 
 **E-waste Education Site**
 
-- Static React website describing national and regional electronic waste usage and policies with statistical visualizations. <a href=" e-waste-info.web.app " target="_blank">Site</a>, <a href="https://github.com/matthew-y-dong/e-waste-site" target="_blank">Code</a>
+- Static React website describing national and regional electronic waste usage and policies with statistical visualizations. <a href="https://e-waste-info.web.app/" target="_blank">Site</a>, <a href="https://github.com/matthew-y-dong/e-waste-site" target="_blank">Code</a>
 
 <br>
 
