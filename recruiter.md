@@ -36,7 +36,7 @@ Experience
 **Software Developer & Research Assistant - CAHL Research Lab**
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
-- Collaborated on both software development and machine learning research teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Annual traffic to site included 10% of the undergraduate population of 30k students. 
+- Collaborated on both research and development teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Helped pilot expansion of system to other university partners. 
 - Built automated data pipeline using Apache Airflow integrating multiple campus APIs and registrar enrollment data dumps to retrain neural net models and refresh MySQL data tables.
 - Engineered full stack features using Angular/Flask (including search feature) and helped refactor codebase to follow OOP practices and modern architecture patterns.
 - Published research paper demonstrating use of ML models in ed-tech course search tools in practice. <a href="{{site.url}}/assets/files/ECTEL-paper.pdf" target="_blank">Full paper PDF</a>
