@@ -86,10 +86,10 @@ width: normal
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-recruiter: true
+recruiter: false
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true

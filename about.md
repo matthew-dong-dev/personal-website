@@ -14,7 +14,7 @@ layout: page-with-credit
 
 ---
 
-<center> In my free time I enjoy being outdoors and doing MMA. </center>
+<center> In my free time I enjoy being outdoors and doing different combat sports. </center>
 
 <!-- <img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'> -->
 
