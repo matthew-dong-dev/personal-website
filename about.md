@@ -51,6 +51,10 @@ Shows
 - _Gravity Falls_  
 - _Tom and Jerry_
 
+
+<img class="bigger-image" src="{{ site.url }}/assets/images/calvin-and-hobbes.png" />
+
+
 <!-- <p class="extra">
 	Site template: 
     <a class="link" href="https://github.com/sergiokopplin/indigo" target="_blank">Indigo theme by Kopplin</a>
