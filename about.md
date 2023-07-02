@@ -14,12 +14,13 @@ layout: page-with-credit
 
 ---
 
-<center> In my free time I enjoy being outdoors and doing different combat sports. </center>
-
-<!-- <img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'> -->
+<center> In my free time I enjoy being outdoors and doing MMA. </center>
 
 <img src="/assets/images/utah.jpg" alt="utah" class='bigger-image'>
-
+<br>
+<img src="/assets/images/norway-fjord.jpg" alt="norway" class='bigger-image'>
+<br>
+<img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'>
 <!-- <img src="/assets/images/cal-boxing.jpg" alt="Cal Boxing" class='bigger-image'> -->
 
 ---
@@ -39,7 +40,8 @@ Movies
 - _Free Solo_ 
 - _3 Idiots_ 
 - _Napolean Dynamite_
-- _Fight Club_ 
+- _Spider-Man: Into the Spider-Verse_
+<!-- - _Fight Club_  -->
 - _How to Train Your Dragon_
 <!-- - _Wreck it Ralph_ -->
 
