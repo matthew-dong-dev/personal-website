@@ -20,7 +20,7 @@ layout: page-with-credit
 <br>
 <img src="/assets/images/norway-fjord.jpg" alt="norway" class='bigger-image'>
 <br>
-<img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'>
+<!-- <img src="/assets/images/backpacking.jpg" alt="backpacking" class='bigger-image'> -->
 <!-- <img src="/assets/images/cal-boxing.jpg" alt="Cal Boxing" class='bigger-image'> -->
 
 ---
