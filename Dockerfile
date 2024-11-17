@@ -1,5 +1,7 @@
 FROM ruby:2.5.1
 
+ENV LANG=C.UTF-8
+
 RUN gem install bundler -v 2.3.27
 
 WORKDIR /app
