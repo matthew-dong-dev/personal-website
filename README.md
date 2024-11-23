@@ -6,7 +6,7 @@
 
 `docker build -t personal-website:1.0.0 .`
 
-`docker run -p 4000:4000 personal-website:1.0.0 `
+`docker run -p 4000:4000 personal-website:1.0.0`
 
 ## Local development
 
