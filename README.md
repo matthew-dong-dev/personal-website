@@ -6,7 +6,7 @@
 
 `docker build -t personal-website:1.0.0 .`
 
-`docker run -p 4000:4000 personal-website:1.0.0 `
+`docker run -p 4000:4000 personal-website:1.0.0`
 
 ## Local development
 
@@ -14,6 +14,7 @@ Run `bundle exec jekyll serve --config _config.yml,_config-dev.yml` for dev envi
 
 Notes: 
 
+- when updating dependencies, may need to delete gemfile.lock before rerunning `bundle install`
 - Sometimes you need to clear the browser cache for changes to propogate.  If you change the config file, you need to rebuild the site.  
 - If you want to take down pages, just add [maintenance] in front of the md or pdf file, then Jekyll won't be able to find them and will default to the 404 page.  Or set recruiter to false in `config.yml`
 - Rm socials by commenting out `include social-links.html` in `header.html` - commenting them in config.yml leaves a random github icon for some reason
