@@ -2,15 +2,11 @@
     <h2><a href="https://matthewydong.com ">Personal Website</a> · <img src="https://travis-ci.org/mdong127/mdong127.github.io.svg?branch=master" alt="Build Status" style="max-width:100%;"></a></h2>
 </p>
 
-## Build & deployment
-
-`docker build -t personal-website:1.0.0 .`
-
-`docker run -p 4000:4000 personal-website:1.0.0`
-
 ## Local development
 
-Run `bundle exec jekyll serve --config _config.yml,_config-dev.yml` for dev environment
+Option 1: Install docker and run with `docker build -t personal-website:1.0.0 .` and `docker run -p 4000:4000 personal-website:1.0.0`
+
+Option 2 (better for local dev): Install ruby with rbenv and install bundler (see versions in Dockerfile).  Launch app with `bundle exec jekyll serve --config _config.yml,_config-dev.yml` 
 
 Notes: 
 
@@ -19,6 +15,10 @@ Notes:
 - If you want to take down pages, just add [maintenance] in front of the md or pdf file, then Jekyll won't be able to find them and will default to the 404 page.  Or set recruiter to false in `config.yml`
 - Rm socials by commenting out `include social-links.html` in `header.html` - commenting them in config.yml leaves a random github icon for some reason
 - [Website template](https://github.com/sergiokopplin/indigo)
+
+## Build & Deployment
+
+App is deployed via a github workflow (see .github/workflows/jekyll.yml)
 
 ## To do: 
 
