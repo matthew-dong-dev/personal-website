@@ -54,7 +54,7 @@ Shows
 - _Tom and Jerry_
 
 
-<img class="bigger-image" src="{{ site.url }}/assets/images/calvin-and-hobbes.png" />
+<img class="bigger-image" src="{{ site.url }}/assets/images/calvin-and-hobbes.png" alt="Calvin and Hobbes"/>
 
 
 <!-- <p class="extra">
