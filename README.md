@@ -1,6 +1,5 @@
 
-# [Personal Website](https://www.matthewdong.dev) 
-https://github.com/matthew-dong-dev/personal-website/actions/workflows/jekyll.yml/badge.svg
+# [Personal Website](https://www.matthewdong.dev) ![Worfklow badge](https://github.com/matthew-dong-dev/personal-website/actions/workflows/jekyll.yml/badge.svg)
 
 ## Local development
 
