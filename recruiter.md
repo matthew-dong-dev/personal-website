@@ -19,23 +19,31 @@ layout: recruiter-page
 Experience 
 ----------
 
-**Software Engineer (Back-End) - Target Corporation**
+<p style="margin-bottom:0;"> <strong>Target Corporation - Senior Software Engineer</strong></p>
+<p style="margin : 0; padding-top:0;"> <i>Inventory Management Core Data team (Aug 2022 - Feb 2024)</i> </p>
+
+
+- Helped design and implement large scale rewrite of legacy application calculating supply chain data attributes for millions of items across Target to reflect real time updates, improve its performance, scalability, and maintainability, as well as convert it from a REST API to GraphQL. 
+- Minneapolis, MN (Nov 2021 - Present)
+
+<p style="margin-bottom:0;"> <strong>Target Corporation - Software Engineer</strong></p>
+<p style="margin : 0; padding-top:0;"> <i>Supply Chain Business Data Authoring team (Nov 2021 - Aug 2022)</i> </p>
 
 - Built several new API features across the stores & supply chain space including: push block (enables managers to set which stores can receive inventory pushes), bulky attribute (new item attribute determining whether an item is eligible for automation processes at distribution centers), truckload optimization (CRUD application for transforming and publishing data used to optimize trailer loading).  
     - All features included persisting data to postgres and Kafka, necessary alerting & metrics, as well as auditing and test coverage (unit, functional, integration).  
     - Collaborated with product owners, outlined acceptance criteria, executed design, implemented code feedback. 
 - In both legacy and modern applications - addressed tech debt (handled several API migrations, major dependency updates, and resolved security vulnerabilities) and implemented best software practices (updated CI / CD pipelines, contributed core library updates, improved auditing, rewrote code as necessary).
 - Handled on call responsibilities - resolved bugs and educated users, triaged several incidents generating work stoppages.
-- Minneapolis, MN (Nov 2021 - Present)
 
-**Software Engineering Intern (Full-stack) - EcoDataLab**
+<p style="margin-bottom:0;"> <strong>EcoDataLab - Software Developer (Full-stack)</strong></p>
+<p style="margin : 0; padding-top:0;"> <i>Aug 2020 - July 2021</i></p>
 
 - Led student developer team working on carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses.   Worked as partial scrum master, organized sprints and communicated goals and progress with stakeholders.
-- Improved service logic to increase API response accuracy <a href="https://coolclimate.org/api" target="_blank">(api-central.berkeley.edu/api/11)</a>, helped containerize back-end with Docker to automate  research database refresh process, implemented UI features with React/Redux.
+- Improved service logic to increase API response accuracy <a href="https://coolclimate.org/api" target="_blank">https://coolclimate.org/api</a>, helped containerize back-end with Docker to automate  research database refresh process, implemented UI features with React/Redux.
 - Managed deployments through GCP Web Hosting and in-house server. 
-- Berkeley, CA (Aug 2020 - July 2021)
 
-**Software Developer & Research Assistant - CAHL Research Lab**
+<p style="margin-bottom:0;"> <strong>CAHL Research Lab - Software Developer & Machine Learning Research Assistant</strong></p>
+<p style="margin : 0; padding-top:0;"> <i>May 2018 - Aug 2020</i></p>
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
 - Collaborated on both research and development teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Helped pilot expansion of system to other university partners. 
@@ -74,13 +82,17 @@ High Distinction in General Scholarship (GPA: 3.93/4)
 Projects 
 ----------
 
+**Personal website**
+
+- Jekyll site template modified for personal use for practice with web application development and deployment.  Added custom CI/CD pipelines to run tests and deploy to personal domain. <a href="https://github.com/matthew-dong-dev/personal-website" target="_blank">Code</a>
+
 **CA County Waste Management**
 
 - Forecasting project predicting CA county waste generation based on historic data and other engineered features.  Scraped data from government websites, trained and evaluated different prediction models, created a geospatial heat map with optimal model projections. <a href="https://matthew-dong-dev.github.io/ca-waste/" target="_blank">GIS Map</a>, <a href="https://github.com/matthew-dong-dev/ca-waste" target="_blank">Code</a>
 
 **E-waste Education Site**
 
-- Static React website describing national and regional electronic waste usage and policies with statistical visualizations. <a href="https://e-waste-info.web.app/" target="_blank">Site</a>, <a href="https://github.com/matthew-dong-dev/e-waste-site" target="_blank">Code</a>
+- Static React website describing national and regional electronic waste usage and policies with statistical visualizations. Site hosted on GCP.  <a href="https://e-waste-info.web.app/" target="_blank">Site</a>, <a href="https://github.com/matthew-dong-dev/e-waste-site" target="_blank">Code</a>
 
 <br>
 
