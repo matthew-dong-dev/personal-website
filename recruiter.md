@@ -1,14 +1,16 @@
 ---
 title: Recruiter
-layout: page
+layout: recruiter-page
 ---
+
 
 <!-- <img src="/assets/images/recruiter-headshot.jpg" alt="Matthew Dong Headshot" style="width:150px;
     height: auto; display: block; margin: 0 auto;"> -->
 
 <center> <h2> Recruiter Info </h2> </center>
 
-<center>You can find my Github profile <a href="https://github.com/matthew-dong-dev" target="_blank">here</a>.</center>
+<!-- 
+<center>You can find my Github profile <a href="https://github.com/matthew-dong-dev" target="_blank">here</a>.</center> -->
 
 <!-- <center>You can find my resume <a href="{{ site.url }}/{{ site.resume-url }}" target="_blank">here</a> and my Github profile <a href="https://github.com/matthew-dong-dev" target="_blank">here</a>.</center> -->
 
@@ -63,9 +65,9 @@ Experience
 Education
 ---------
 
-**University of California, Berkeley** (Grad. 2021)
+**University of California, Berkeley**
 <p style="position: relative; bottom: 20px;">
-B.A. Data Science (Concentration: Environment and Resource Management)
+B.A. Data Science
 High Distinction in General Scholarship (GPA: 3.93/4)
 </p>
 
@@ -93,4 +95,4 @@ Awards and Publications
 
 **Undergraduate Research Fellow**
 
-- Received $6,000 grant to conduct a self-directed research project under the guidance of a faculty mentor.  Submitted work for publication and presented accepted work at a research conference. 
+- Received $6,000 grant to conduct a self-directed research project under the guidance of a faculty mentor.  Submitted work for peer review and presented published work at a research conference. 
