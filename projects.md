@@ -20,10 +20,6 @@ Projects
 
 - Forecasting project predicting CA county waste generation based on historic data and other engineered features.  Scraped data from government websites, trained and evaluated different prediction models, created a geospatial heat map with optimal model projections. <a href="https://matthew-dong-dev.github.io/ca-waste/" target="_blank">GIS Map</a>, <a href="https://github.com/matthew-dong-dev/ca-waste" target="_blank">Code</a>
 
-**E-waste Education Site**
-
-- Static React website describing national and regional electronic waste usage and policies with statistical visualizations. <a href="https://e-waste-info.web.app/" target="_blank">Site</a>, <a href="https://github.com/matthew-dong-dev/e-waste-site" target="_blank">Code</a>
-
 <br>
 
 Publications
