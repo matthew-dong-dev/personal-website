@@ -38,7 +38,7 @@ Experience
 <p style="margin-bottom:0;"> <strong>EcoDataLab - Software Developer (Full-stack)</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>Jan 2021 - July 2021</i></p>
 
-- Helped develop carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses to achieve carbon neutral goals. Improved service logic to increase API response accuracy <a href="https://coolclimate.org/api" target="_blank">https://coolclimate.org/api</a>, implemented UI features with React/Redux, managed deployments through GCP Web Hosting and in-house server.  Also worked as partial scrum master, organized sprints and communicated goals and progress to stakeholders
+- Helped develop carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses to achieve carbon neutral goals. Improved service logic to increase API response accuracy, implemented UI features with React/Redux, managed deployments through GCP Web Hosting and in-house server.  Also worked as partial scrum master, organized sprints and communicated goals and progress to stakeholders
 
 <p style="margin-bottom:0;"> <strong>CAHL Research Lab - Software Developer & Machine Learning Research Assistant</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>May 2018 - Jan 2021</i></p>
@@ -80,15 +80,11 @@ Projects
 
 **Personal website**
 
-- Jekyll site template modified for personal use for practice with web application development and deployment.  Added custom CI/CD pipelines to run tests, publish build, and deploy to a custom domain. <a href="https://github.com/matthew-dong-dev/personal-website" target="_blank">Code</a>
+- Static react site template modified for personal use for practice with web application development and deployment.  Added custom CI/CD pipelines to run tests, publish build, and deploy to a custom domain. <a href="https://github.com/matthew-dong-dev/personal-website" target="_blank">Code</a>
 
 **CA County Waste Management**
 
 - Forecasting project predicting CA county waste generation based on historic data and other engineered features.  Scraped data from government websites, trained and evaluated different prediction models, created a geospatial heat map with optimal model projections. <a href="https://matthew-dong-dev.github.io/ca-waste/" target="_blank">GIS Map</a>, <a href="https://github.com/matthew-dong-dev/ca-waste" target="_blank">Code</a>
-
-**E-waste Education Site**
-
-- Static React website describing national and regional electronic waste usage and policies with statistical visualizations. Site hosted on GCP.  <a href="https://e-waste-info.web.app/" target="_blank">Site</a>, <a href="https://github.com/matthew-dong-dev/e-waste-site" target="_blank">Code</a>
 
 <br>
 
