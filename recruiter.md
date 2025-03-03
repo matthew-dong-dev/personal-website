@@ -23,17 +23,17 @@ Experience
 <p style="margin : 0; padding-top:0;"> <i>Inventory Management Core Data team (Aug 2022 - Feb 2024)</i> </p>
 
 
-- Helped design and implement rewrite of large scale legacy application calculating supply chain data attributes for millions of Target items to reflect real time updates, improve performance, scalability, and maintainability, as well as convert the API from REST to GraphQL for downstream consumers.
-- Played key role in new team formation by creating both technical and non-technical infrastructure (e.g. new application templates, build and deployment pipelines, onboarding documentation, team working agreements, etc.) and taking greater responsibility in product planning and mentoring interns/junior engineers.  
+- Helped design and implement rewrite of a large scale legacy application calculating supply chain data attributes for millions of Target items to improve its performance, scalability, and maintainability.  Utilized an event driven microservice architecture as well as converted from a REST API to GraphQL for downstream consumers.
 - Fulfilled on call responsibilities/production support - fixed bugs and educated users, triaged and resolved several high priority incidents causing work stoppages at distribution centers.
+- Played key role in new team formation by creating both technical and non-technical infrastructure (e.g. build and deploy pipelines, application templates, documentation and working agreements, etc.) and took greater responsibility in product planning and mentoring interns/junior engineers.  
 
 <p style="margin-bottom:0;"> <strong>Target Corporation - Software Engineer</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>Supply Chain Business Data Authoring team (Nov 2021 - Aug 2022)</i> </p>
 
-- Built new back-end capabilities in a variety of stores & supply chain apps e.g. attributes describing whether items are eligible for certain automation/fulfillment processes at distribution centers and stores, feature allowing managers to set which stores can receive inventory pushes, and data pipelines used to transform and publish data for trailer loading optimization.
-    - All features included publishing to/consuming from Kafka topics, persisting data to databases, auditing, test coverage, and alerting/metrics. 
-    - Collaborated with product owners, outlined acceptance criteria, implemented design, managed releases, and followed through with performance monitoring.
-- In both legacy and modern applications - addressed tech debt (API migrations, major dependency updates, security vulnerabilities, etc.) and improved codebases (automated CI/CD steps, SSL cert renewals, secrets management, contributed to libraries, improved logs and observability, rewrote code, created documentation, etc.)
+- Built new back-end capabilities in a variety of supply chain applications: e.g. implemented business logic describing whether items are eligible for certain automation/fulfillment processes at distribution centers, built APIs allowing managers to set which stores can receive inventory pushes, and data pipelines used to transform and publish data for trailer loading optimization.
+    - All features included publishing to/consuming from Kafka topics, persisting data to databases, auditing, test coverage, and alerting/metrics.  
+    - Collaborated with product owners to write stories and outline acceptance criteria, implemented design, managed releases on private cloud platform, followed through with performance monitoring.
+- In both legacy and modern applications - addressed tech debt (API migrations, major dependency updates, security vulnerabilities, etc.) and improved codebases (automated CI/CD steps, SSL cert renewals, secrets management, contributed to libraries, improved logs and observability, rewrote code, etc.)
 
 <p style="margin-bottom:0;"> <strong>EcoDataLab - Software Developer (Full-stack)</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>Jan 2021 - July 2021</i></p>
@@ -44,10 +44,9 @@ Experience
 <p style="margin : 0; padding-top:0;"> <i>May 2018 - Jan 2021</i></p>
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
-- Collaborated on both research and development teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Helped pilot expansion of system to other university partners. 
-- Built automated data pipeline using Apache Airflow integrating multiple campus APIs and registrar enrollment data dumps to retrain neural net models and refresh MySQL data tables.
-- Engineered full stack features using Angular/Flask (including search feature) and helped refactor codebase to better follow OOP practices and modern architecture patterns.
-- Published research paper demonstrating use of ML models in ed-tech course search tools in practice. <a href="{{site.url}}/assets/files/ECTEL-paper.pdf" target="_blank">Full paper PDF</a>
+- Worked on both research and development teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Helped pilot expansion of system to other university partners. 
+- Built automated data pipeline using Apache Airflow integrating campus APIs and registrar data dumps to version and retrain different machine learning models used by the system and refresh MySQL data tables.
+- Engineered full stack features using Angular/Flask (including search feature) and helped refactor codebase to better follow OOP practices and modern architecture patterns.  Trained \& deployed ML model used in search feature, published research paper demonstrating use of machine learning in live ed-tech platforms <a href="{{site.url}}/assets/files/ECTEL-paper.pdf" target="_blank">Full paper PDF</a>
 <!-- - Performed full-stack web development & testing and built the site's course catalog search feature. -->
  <!-- Trained and optimized machine learning models, created back-end endpoints, designed and implemented the user interface.  -->
 
@@ -75,18 +74,8 @@ Education
 B.A. Data Science - High Distinction in General Scholarship (GPA: 3.93/4)
 </p>
 
-Projects 
-----------
-
-**Personal website**
-
-- Static react site template modified for personal use for practice with web application development and deployment.  Added custom CI/CD pipelines to run tests, publish build, and deploy to a custom domain. <a href="https://github.com/matthew-dong-dev/personal-website" target="_blank">Code</a>
-
-**CA County Waste Management**
-
-- Forecasting project predicting CA county waste generation based on historic data and other engineered features.  Scraped data from government websites, trained and evaluated different prediction models, created a geospatial heat map with optimal model projections. <a href="https://matthew-dong-dev.github.io/ca-waste/" target="_blank">GIS Map</a>, <a href="https://github.com/matthew-dong-dev/ca-waste" target="_blank">Code</a>
-
 <br>
+
 
 Awards and Publications
 ----------
@@ -100,3 +89,18 @@ Awards and Publications
 **Undergraduate Research Fellow**
 
 - Received $6,000 grant to conduct a self-directed research project under the guidance of a faculty mentor.  Submitted work for peer review and presented published work at a research conference. 
+
+<br>
+
+Projects 
+----------
+
+**Personal website**
+
+- Static React site template modified for personal use for practice with web app development and deployment.  Built CI/CD pipelines to run tests, publish build, and deploy to a custom domain. <a href="https://github.com/matthew-dong-dev/personal-website" target="_blank">Code</a>
+
+**CA County Waste Management**
+
+- Forecasting simulation predicting CA county waste production based on historic data and other engineered features.  Scraped data from government websites, trained and evaluated different prediction models, created a geospatial heat map with optimal model projections. <a href="https://matthew-dong-dev.github.io/ca-waste/" target="_blank">GIS Map</a>, <a href="https://github.com/matthew-dong-dev/ca-waste" target="_blank">Code</a>
+
+<br>
