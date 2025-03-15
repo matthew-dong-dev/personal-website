@@ -19,7 +19,7 @@ layout: recruiter-page
 Experience 
 ----------
 
-<p style="margin-bottom:0;"> <strong>Target Corporation - Senior Software Engineer</strong></p>
+<p style="margin-bottom:0;"> <strong>Target Corporation - Software Engineer II/Senior Engineer</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>Inventory Management Core Data team (Aug 2022 - Feb 2024)</i> </p>
 
 
@@ -27,7 +27,7 @@ Experience
 - Fulfilled on call responsibilities/production support - fixed bugs and educated users, triaged and resolved several high priority incidents causing work stoppages at distribution centers.
 - Played key role in new team formation by creating both technical and non-technical infrastructure (e.g. build and deploy pipelines, application templates, documentation and working agreements, etc.) and took greater responsibility in product planning and mentoring interns/junior engineers.  
 
-<p style="margin-bottom:0;"> <strong>Target Corporation - Software Engineer</strong></p>
+<p style="margin-bottom:0;"> <strong>Target Corporation - Software Engineer II</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>Supply Chain Business Data Authoring team (Nov 2021 - Aug 2022)</i> </p>
 
 - Built new back-end capabilities in a variety of supply chain applications: e.g. implemented business logic describing whether items are eligible for certain automation/fulfillment processes at distribution centers, built APIs allowing managers to set which stores can receive inventory pushes, and data pipelines used to transform and publish data for trailer loading optimization.
@@ -38,15 +38,15 @@ Experience
 <p style="margin-bottom:0;"> <strong>EcoDataLab - Software Developer (Full-stack)</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>Jan 2021 - July 2021</i></p>
 
-- Helped develop carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses to achieve carbon neutral goals. Improved service logic to increase API response accuracy, implemented UI features with React/Redux, managed deployments through GCP Web Hosting and in-house server.  Also worked as partial scrum master, organized sprints and communicated goals and progress to stakeholders
+- Helped develop carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses to achieve carbon neutral goals. Improved service logic to increase API response accuracy, implemented UI features with React/Redux, managed deployments on AWS.  Also worked as partial scrum master, organized sprints and communicated goals and progress to stakeholders
 
 <p style="margin-bottom:0;"> <strong>CAHL Research Lab - Software Developer & Machine Learning Research Assistant</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>May 2018 - Jan 2021</i></p>
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
-- Worked on both research and development teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Helped pilot expansion of system to other university partners. 
-- Built automated data pipeline using Apache Airflow integrating campus APIs and registrar data dumps to version and retrain different machine learning models used by the system and refresh MySQL data tables.
-- Engineered full stack features using Angular/Flask (including search feature) and helped refactor codebase to better follow OOP practices and modern architecture patterns.  Trained \& deployed ML model used in search feature, published research paper demonstrating use of machine learning in live ed-tech platforms <a href="{{site.url}}/assets/files/ECTEL-paper.pdf" target="_blank">Full paper PDF</a>
+- Worked on both research and development teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Implemented full stack features using Angular/Flask, helped train and productionize different machine learning models used by system, refactored codebase to better follow OOP principles and modern architecture patterns.
+- Built automated data pipeline using Apache Airflow integrating campus APIs and registrar data dumps to retrain and version machine learning models and refresh MySQL data tables.
+- Published research paper demonstrating use of machine learning in live ed-tech platforms. <a href="{{site.url}}/assets/files/ECTEL-paper.pdf" target="_blank">Full paper PDF</a>
 <!-- - Performed full-stack web development & testing and built the site's course catalog search feature. -->
  <!-- Trained and optimized machine learning models, created back-end endpoints, designed and implemented the user interface.  -->
 
