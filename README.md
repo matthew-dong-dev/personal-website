@@ -18,4 +18,6 @@ Notes:
 
 App is tested, built, and deployed via github workflows (see .github/workflows/ruby.yml and .github/workflows/jekyll.yml)
 
+## UI Credits
+
 [Website template](https://github.com/sergiokopplin/indigo)
