@@ -20,7 +20,7 @@ Experience
 ----------
 
 <p style="margin-bottom:0;"> <strong>Target Corporation - Software Engineer II/Senior Engineer</strong></p>
-<p style="margin : 0; padding-top:0;"> <i>Inventory Management Core Data team (Aug 2022 - Feb 2024)</i> </p>
+<p style="margin : 0; padding-top:0;"> <i>Inventory Management Core Data team (Aug 2022 - Mar 2024)</i> </p>
 
 
 - Helped design and implement rewrite of a large scale legacy application calculating supply chain data attributes for millions of Target items to improve its performance, scalability, and maintainability.  Utilized an event driven microservice architecture as well as converted from a REST API to GraphQL for downstream consumers.
@@ -35,7 +35,7 @@ Experience
     - Collaborated with product owners to write stories and outline acceptance criteria, implemented design, managed releases on private cloud platform, followed through with performance monitoring.
 - In both legacy and modern applications - addressed tech debt (API migrations, major dependency updates, security vulnerabilities, etc.) and improved codebases (automated CI/CD steps, SSL cert renewals, secrets management, contributed to libraries, improved logs and observability, rewrote code, etc.)
 
-<p style="margin-bottom:0;"> <strong>EcoDataLab - Software Developer (Full-stack)</strong></p>
+<p style="margin-bottom:0;"> <strong>CoolClimate Network - Software Developer</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>Jan 2021 - July 2021</i></p>
 
 - Helped develop carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses to achieve carbon neutral goals. Improved service logic to increase API response accuracy, implemented UI features with React/Redux, managed deployments on AWS.  Also worked as partial scrum master, organized sprints and communicated goals and progress to stakeholders
