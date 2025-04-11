@@ -20,7 +20,7 @@ Experience
 ----------
 
 <p style="margin-bottom:0;"> <strong>Target Corporation - Software Engineer II/Senior Engineer</strong></p>
-<p style="margin : 0; padding-top:0;"> <i>Inventory Management Core Data team (Aug 2022 - Mar 2024)</i> </p>
+<p style="margin : 0; padding-top:0;"> <i>Inventory Management Core Data team (Aug 2022 - Feb 2024)</i> </p>
 
 
 - Helped design and implement rewrite of a large scale legacy application calculating supply chain data attributes for millions of Target items to improve its performance, scalability, and maintainability.  Utilized an event driven microservice architecture as well as converted from a REST API to GraphQL for downstream consumers.
@@ -30,21 +30,20 @@ Experience
 <p style="margin-bottom:0;"> <strong>Target Corporation - Software Engineer II</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>Supply Chain Business Data Authoring team (Nov 2021 - Aug 2022)</i> </p>
 
-- Built new back-end capabilities in a variety of supply chain applications: e.g. implemented business logic describing whether items are eligible for certain automation/fulfillment processes at distribution centers, built APIs allowing managers to set which stores can receive inventory pushes, and data pipelines used to transform and publish data for trailer loading optimization.
-    - All features included publishing to/consuming from Kafka topics, persisting data to databases, auditing, test coverage, and alerting/metrics.  
-    - Collaborated with product owners to write stories and outline acceptance criteria, implemented design, managed releases on private cloud platform, followed through with performance monitoring.
+- Built new back-end capabilities in a variety of data driven supply chain applications.  All features included publishing to/consuming from Kafka topics, persisting data to databases, auditing, test coverage, and alerting/metrics.  Collaborated with product owners to write stories and outline acceptance criteria, implemented design, managed releases on private cloud platform, and followed through with performance monitoring.
+    - Examples include implementing business logic describing whether items are eligible for certain automation/fulfillment processes, building API allowing managers to set which stores can receive certain inventory pushes, and data ingestion app used to transform and publish data for trailer loading optimization.
 - In both legacy and modern applications - addressed tech debt (API migrations, major dependency updates, security vulnerabilities, etc.) and improved codebases (automated CI/CD steps, SSL cert renewals, secrets management, contributed to libraries, improved logs and observability, rewrote code, etc.)
 
 <p style="margin-bottom:0;"> <strong>CoolClimate Network - Software Developer</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>Jan 2021 - July 2021</i></p>
 
-- Helped develop carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses to achieve carbon neutral goals. Improved service logic to increase API response accuracy, implemented UI features with React/Redux, managed deployments on AWS.  Also worked as partial scrum master, organized sprints and communicated goals and progress to stakeholders
+- Helped develop carbon footprint tool <a href="https://coolclimate.org/calculator" target="_blank">(coolclimate.org/calculator)</a> used by both general public and businesses to achieve emissions goals. Improved service logic to increase API response accuracy, implemented UI features with React/Redux, managed deployments on AWS.  Also worked as partial scrum master, organized sprints and communicated goals and progress to stakeholders
 
 <p style="margin-bottom:0;"> <strong>CAHL Research Lab - Software Developer & Machine Learning Research Assistant</strong></p>
 <p style="margin : 0; padding-top:0;"> <i>May 2018 - Jan 2021</i></p>
  <!-- <a href="https://github.com/CAHLR" target="_blank">CAHL Research Lab</a> -->
 
-- Worked on both research and development teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Implemented full stack features using Angular/Flask, helped train and productionize different machine learning models used by system, refactored codebase to better follow OOP principles and modern architecture patterns.
+- Worked on both research and development teams to build an AI driven <a href="https://askoski.berkeley.edu" target="_blank">academic planning platform</a> for UC Berkeley, including a course recommendation feature.  Implemented full stack features using Angular/Flask, helped train and productionize different machine learning models used by the system, refactored codebase to better follow OOP principles and modern architecture patterns.
 - Built automated data pipeline using Apache Airflow integrating campus APIs and registrar data dumps to retrain and version machine learning models and refresh MySQL data tables.
 - Published research paper demonstrating use of machine learning in live ed-tech platforms. <a href="{{site.url}}/assets/files/ECTEL-paper.pdf" target="_blank">Full paper PDF</a>
 <!-- - Performed full-stack web development & testing and built the site's course catalog search feature. -->
@@ -97,7 +96,7 @@ Projects
 
 **Personal website**
 
-- Static React site template modified for personal use for practice with web app development and deployment.  Built CI/CD pipelines to run tests, publish build, and deploy to a custom domain. <a href="https://github.com/matthew-dong-dev/personal-website" target="_blank">Code</a>
+- Static React site template modified for personal use and practice with web app development and deployment.  Built CI/CD pipelines to run tests, publish build, and deploy to a custom domain. <a href="https://github.com/matthew-dong-dev/personal-website" target="_blank">Code</a>
 
 **CA County Waste Management**
 
