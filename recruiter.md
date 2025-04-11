@@ -94,6 +94,10 @@ Awards and Publications
 Projects 
 ----------
 
+**AI powered course planning agent**
+
+- Proof of concept AI agent built using Langchain & OpenAI LLM to help students with course enrollment planning.  <a href="https://github.com/matthew-dong-dev/langchain-course-agent" target="_blank">Code</a>
+
 **Personal website**
 
 - Static React site template modified for personal use and practice with web app development and deployment.  Built CI/CD pipelines to run tests, publish build, and deploy to a custom domain. <a href="https://github.com/matthew-dong-dev/personal-website" target="_blank">Code</a>
